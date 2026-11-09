@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc",
+  "name": "路在何方",
+  "alternativeHeadline": "退出、治理和文明演化",
+  "author": {
+    "@type": "Person",
+    "name": "mayby1975"
+  },
+  "contributor": {
+    "@type": "Person",
+    "name": "xiaohai67890",
+    "description": "区块链技术与DAO治理"
+  },
+  "inLanguage": "zh-CN",
+  "bookFormat": "https://schema.org/EBook",
+  "numberOfPages": 301,
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "本地DOCX版本SHA-256",
+    "value": "a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc"
+  },
+  "description": "本书从复杂系统的生存约束出发，讨论治理、创新和冗余的关系，主张以真实可行的退出约束治理，并探讨分布式协作与更多退出空间的可能性。此描述为本知识包编制摘要。",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "复杂系统"
+    },
+    {
+      "@type": "Thing",
+      "name": "退出"
+    },
+    {
+      "@type": "Thing",
+      "name": "治理"
+    },
+    {
+      "@type": "Thing",
+      "name": "冗余"
+    },
+    {
+      "@type": "Thing",
+      "name": "创新"
+    },
+    {
+      "@type": "Thing",
+      "name": "退出成本"
+    },
+    {
+      "@type": "Thing",
+      "name": "最小必要治理"
+    },
+    {
+      "@type": "Thing",
+      "name": "分布式文明"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch01",
+      "name": "第一章 幸存者的错觉——我们为何痴迷于“优胜劣汰”？",
+      "position": 1,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch02",
+      "name": "第二章 非遍历世界的生存约束——三个无法绕过的残酷现实",
+      "position": 2,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch03",
+      "name": "第三章 冗余（Redundancy）——错误不可避免下，系统如何容错",
+      "position": 3,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch04",
+      "name": "第四章 创新（Innovation）——环境不断变化，系统如何适配",
+      "position": 4,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch05",
+      "name": "第五章 治理（Governance）——分歧无处不在，系统如何协作",
+      "position": 5,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch06",
+      "name": "第六章 生存三要素——G-I-R的动态博弈",
+      "position": 6,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch07",
+      "name": "第七章 退出约束治理，驱动演化",
+      "position": 7,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch08",
+      "name": "第八章 退出优先（Exit-First）——审视系统演化的第一性原理",
+      "position": 8,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch09",
+      "name": "第九章 退出成本 ——系统锁定的底层机制",
+      "position": 9,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch10",
+      "name": "第十章 Ec → 0——最小必要治理（MVG）",
+      "position": 10,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch11",
+      "name": "第十一章 婚姻为什么会失败——最古老的微型治理战场",
+      "position": 11,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch12",
+      "name": "第十二章 公司为什么会失败——创新者的窘境与治理的捕获",
+      "position": 12,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch13",
+      "name": "第十三章 国家为什么会失败——退出极度受限的巨型治理系统",
+      "position": 13,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch14",
+      "name": "第十四章 干预的诅咒——那些我们不该阻止的“退出”",
+      "position": 14,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch15",
+      "name": "第十五章 宗教的演化密码：高退出、高分叉、高冗余的长寿系统",
+      "position": 15,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch16",
+      "name": "第十六章 自然的启示——高退出能力的系统密码",
+      "position": 16,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch17",
+      "name": "第十七章 革命的起点——去中心化自治组织（DAO）",
+      "position": 17,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch18",
+      "name": "第十八章 分布式文明——退出驱动的文明演化路径",
+      "position": 18,
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc#ch19",
+      "name": "第十九章 没有无限的演化空间——所有退出终将枯竭",
+      "position": 19,
+      "inLanguage": "zh-CN"
+    }
+  ]
+}

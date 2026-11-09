@@ -1,0 +1,68 @@
+{
+  "package_name": "路在何方 AI 知识包",
+  "package_version": "1.1.0",
+  "package_created": "2026-11-07",
+  "status": "获批公开源仓库副本；构建导出不表示已部署",
+  "work": {
+    "title": "路在何方",
+    "subtitle": "退出、治理和文明演化",
+    "english_title_as_printed": "WHERE’S THE EXIT?",
+    "english_tagline_as_printed": "No Exit, No Evolution",
+    "author_name_as_printed": "mayby1975",
+    "contributor": {
+      "name": "xiaohai67890",
+      "role_as_printed": "区块链技术与DAO治理"
+    },
+    "language": "zh-CN",
+    "manuscript_date_as_printed": "2026.5.23",
+    "public_publication_date": null,
+    "publisher": null,
+    "isbn": null,
+    "doi": null,
+    "public_canonical_url": "https://mayby1975.github.io/where-is-the-exit/works/where-is-the-exit--v1-1-0/index.html",
+    "edition_identifier": "urn:sha256:a495359962ed775b9f390d9e63d7eb551381258d4d48ffb242a6f234922be4bc",
+    "identifier_note": "该URN由本包所据DOCX的SHA-256生成，仅用于本地版本识别，不是ISBN、DOI或注册出版编号。"
+  },
+  "source_edition": {
+    "description": "2026-11-06排版交付的审定电子书稿，逐字正文与表格来自该DOCX；PDF用于版面参照与节起始页定位。",
+    "files": [
+      {
+        "path": "source/book.pdf",
+        "sha256": "c952983a72e34e732dfb0797f2dfcf61fa838a9113a62ee91e64b77034ef374c"
+      }
+    ],
+    "pdf_physical_pages": 301,
+    "parts": 3,
+    "chapters": 19,
+    "sections": 80,
+    "minor_headings": 205,
+    "tables": 8,
+    "original_images": 3
+  },
+  "provenance": {
+    "paragraph_ids": "p加六位DOCX顶层段落零基序号；保留空段、目录等原文件位置造成的编号间隙。",
+    "table_ids": "t加三位原DOCX中表格顺序号。",
+    "section_ids": "chXX-sYY等为本包目录标识。",
+    "chunk_ids": "chunk-XXXX仅在本版知识包内稳定。",
+    "page_fields": "section_start_pdf_page为该节标题的PDF物理起始页（从1计），不声称为每一段落所在页；section_start_printed_page_label为同一节的页码标签。",
+    "text_extraction": "读取DOCX正文与8张表格，保留段落内部文字、手动换行与制表符；去除段落首尾空白、排版空段与自动目录的重复显示；段落之间以两个换行分隔。表格单元格的段落以换行、列以制表符序列化；图片原件独立保存，未将封面图片OCR混入正文。",
+    "citations": "每条概念、命题和问答均有source_block_ids；合成摘要与逐字引文分开保存。"
+  },
+  "editorial_boundary": {
+    "author_approved_source": "source/中的审定书稿",
+    "derived_materials": "概念卡、命题、关系、问答、主题词及使用说明是依据审定稿编制的知识整理稿，尚不等同于作者逐条审定的新正文。",
+    "fact_status": "保留作者观点和案例阐释，不表示已对全部历史、科学或统计主张完成外部核验。"
+  },
+  "rights": {
+    "open_license": null,
+    "statement": "《路在何方》书稿及配套知识整理的著作权归作者所有。本版本供公开阅读、检索与注明出处的合理引用；公开发布不另行授予全文转载、出版发行、模型训练、商业使用或改编许可。"
+  },
+  "retrieval": {
+    "method": "离线关键词BM25：中文双字切分、拉丁词、标题加权及概念名称精确匹配提升",
+    "external_requests": false,
+    "embeddings_included": false,
+    "answer_generation_included": false,
+    "import_note": "JSONL为中立数据格式。接入具体知识库或RAG服务时，需按其当前导入规范映射字段。"
+  },
+  "web_export_note": "完整审阅源包与DOCX不在此仓库；原稿版本以work.edition_identifier中的哈希识别。"
+}

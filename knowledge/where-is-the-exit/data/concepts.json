@@ -1,0 +1,2539 @@
+[
+  {
+    "id": "concept-nonergodic-world",
+    "name": "非遍历世界",
+    "aliases": [
+      {
+        "term": "非遍历性世界",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "non-ergodic world",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，“非遍历世界”指未来不会完整重复过去、历史经验不能覆盖所有未知风险的生存环境。作者借此反对把当下优势、既有成功或当前模型视为永久有效的生存保证，并把持续调整、容错与保留替代路径放在系统设计的中心。",
+    "claim_status": "established_concept_as_used_by_author",
+    "source_block_ids": [
+      "p000223",
+      "p000228",
+      "p000391",
+      "p000442",
+      "p000480"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000223",
+        "quote": "未来不会重复过去，历史经验无法完全覆盖未知风险"
+      },
+      {
+        "block_id": "p000442",
+        "quote": "用多路径覆盖可能性，用试错验证假设，用冗余对冲“意外”"
+      }
+    ],
+    "scope_and_limits": [
+      "这里记录的是本书对“非遍历”的思想性使用，不能替代统计物理或概率论中的严格定义。“无法完全预测”不等于任何预测、经验、科学或规划都无效；本书强调为模型之外的变化保留调整余地。"
+    ],
+    "related_concept_names": [
+      "三项生存约束",
+      "容错生存",
+      "冗余",
+      "分叉式创新"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch01-s03",
+      "ch02-s02",
+      "ch02-s03"
+    ],
+    "related_concept_ids": [
+      "concept-three-survival-constraints",
+      "concept-fault-tolerant-survival",
+      "concept-redundancy",
+      "concept-fork-innovation"
+    ]
+  },
+  {
+    "id": "concept-three-survival-constraints",
+    "name": "三项生存约束",
+    "aliases": [
+      {
+        "term": "三个残酷的现实",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "信息分散、理性有限、扰动永存",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "three survival constraints",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书将知识分散、理性有限、扰动永存并列为理解复杂系统的三项基础约束：没有单一中心掌握全部行动知识，没有决策者能够算尽全部结果，也没有可以永久消除意外的静态秩序。作者由此推出，系统必须允许错误发生，并避免一次错误终结后续行动。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000337",
+      "p000338",
+      "p000339",
+      "p000374",
+      "p000480"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000337",
+        "quote": "上帝视角不存在——知识永远分散"
+      },
+      {
+        "block_id": "p000338",
+        "quote": "全知理性不存在——理性永远有限"
+      },
+      {
+        "block_id": "p000339",
+        "quote": "静态稳定不存在——意外永远存在"
+      },
+      {
+        "block_id": "p000374",
+        "quote": "确保单一错误不会导致系统性崩溃，并保留从错误中学习与调整的能力"
+      }
+    ],
+    "scope_and_limits": [
+      "三项约束的组合及其“元规则”地位属于作者框架。它们支持承认认知边界，不直接证明所有集中协调、内部制度约束或风险管理均必然失败，也不意味着错误没有责任或无需改进。"
+    ],
+    "related_concept_names": [
+      "非遍历世界",
+      "容错生存",
+      "治理",
+      "GIR生存不等式"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch02-s01",
+      "ch02-s03"
+    ],
+    "related_concept_ids": [
+      "concept-nonergodic-world",
+      "concept-fault-tolerant-survival",
+      "concept-governance",
+      "concept-gir-survival-inequality"
+    ]
+  },
+  {
+    "id": "concept-fault-tolerant-survival",
+    "name": "容错生存",
+    "aliases": [
+      {
+        "term": "第三条演化之路",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "fault-tolerant survival",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，容错生存是在知识不足、理性有限、意外持续发生的条件下，通过缓冲、隔离、备选方案、可恢复决策与退出路径，使局部错误不致终结整体存续的结构原则。它把问题从“怎样永不犯错”转为“错误之后怎样还能继续”，强调可承受的小规模试错与重新开始的资格。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000429",
+      "p000434",
+      "p000435",
+      "p000436",
+      "p000459"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000434",
+        "quote": "它只关心既然错误无法避免，我们如何确保自己错了还能继续？"
+      },
+      {
+        "block_id": "p000436",
+        "quote": "这个结构拥有缓冲余地、试错空间与重新开始的资格。"
+      },
+      {
+        "block_id": "p000459",
+        "quote": "他采用小规模试错来验证假设，而非一次性下注全部资源"
+      }
+    ],
+    "scope_and_limits": [
+      "容错不是纵容全部错误，也不是保证任何冲击下都能幸存。失败规模仍须受冗余与隔离能力约束，持续试错仍须学习和修正；本书对其“最优”“最长存续”等表述属于理论主张。"
+    ],
+    "related_concept_names": [
+      "冗余",
+      "创新",
+      "退出",
+      "GIR生存不等式"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch02-s02",
+      "ch02-s03"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-innovation",
+      "concept-gir-survival-inequality",
+      "concept-exit"
+    ]
+  },
+  {
+    "id": "concept-redundancy",
+    "name": "冗余",
+    "aliases": [
+      {
+        "term": "R",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "冗余承载力",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "生存缓冲能力",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "redundancy",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，冗余（R）是历史存续形成、用来承担未知失败与后续调整的生存缓冲能力。它不仅是同类资源的多备一份，还包括多路径、异构备份、分形结构、时间缓冲、失败隔离、和平退出及多样叙事。冗余为探索提供承受代价的基础，成功探索又可能形成新的积累。",
+    "claim_status": "established_concept_as_used_by_author",
+    "source_block_ids": [
+      "p000495",
+      "p000497",
+      "p000534",
+      "p000536",
+      "p000637"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000495",
+        "quote": "冗余（R）是历史存续的沉积结果，是系统为应对未知失败而保留的生存缓冲能力"
+      },
+      {
+        "block_id": "p000536",
+        "quote": "冗余一旦被消耗，无法即时恢复"
+      },
+      {
+        "block_id": "p000637",
+        "quote": "创新会消耗冗余，也可能通过成功的探索创造新的积累。"
+      }
+    ],
+    "scope_and_limits": [
+      "本书的冗余概念覆盖资源、结构、时间与叙事，不能直接压缩成一个可通约的数值。多余结构、官僚成本或被锁定的资产并不自动成为有效缓冲；冗余也不能保证抵挡无限规模的失败。"
+    ],
+    "related_concept_names": [
+      "容错生存",
+      "创新",
+      "治理",
+      "GIR生存不等式",
+      "退出"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch03",
+      "ch03-s01",
+      "ch06"
+    ],
+    "related_concept_ids": [
+      "concept-fault-tolerant-survival",
+      "concept-innovation",
+      "concept-governance",
+      "concept-gir-survival-inequality",
+      "concept-exit"
+    ]
+  },
+  {
+    "id": "concept-innovation",
+    "name": "创新",
+    "aliases": [
+      {
+        "term": "I",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "创新活力",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "有益的不确定性生产",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "innovation",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，创新（I）是突破既有约束、创造新选项、生产有益不确定性的探索行为。作者区分优化式、破坏性与分叉式创新，重点关注新路径如何扩大系统可行的生存空间。试错会消耗冗余，成功可能沉淀为新积累，失败也可能留下负面知识与可复用组件。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000541",
+      "p000546",
+      "p000559",
+      "p000581",
+      "p000582"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000541",
+        "quote": "创新（I），是系统突破既有约束、创造新选项、生产有益不确定性的行为"
+      },
+      {
+        "block_id": "p000559",
+        "quote": "它让系统的“可行生存路径”从 1 变成 N"
+      },
+      {
+        "block_id": "p000581",
+        "quote": "每一次失败都在绘制系统的“禁入区地图”"
+      }
+    ],
+    "scope_and_limits": [
+      "创新不等于任何变化都能带来净收益，也不意味着试错应无限扩大。对“无方向试错”“唯一动力”或生存空间“指数级扩张”的表述应作为作者论述理解，不能据此替代具体创新的成本与效果检验。"
+    ],
+    "related_concept_names": [
+      "冗余",
+      "分叉式创新",
+      "治理",
+      "容错生存",
+      "核心—边缘双层生存结构"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch04-s01",
+      "ch04-s02",
+      "ch04-s03",
+      "ch04-s05"
+    ],
+    "related_concept_ids": [
+      "concept-fault-tolerant-survival",
+      "concept-redundancy",
+      "concept-fork-innovation",
+      "concept-governance",
+      "concept-core-periphery-survival"
+    ]
+  },
+  {
+    "id": "concept-fork-innovation",
+    "name": "分叉式创新",
+    "aliases": [
+      {
+        "term": "分叉",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "Fork",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "fork-based innovation",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，分叉式创新是在共享某种基础的同时，建立相对独立的新系统或新路径，使原有路径之外出现可并行尝试的选择。它区别于在既有范式内提高效率，也区别于只以替代旧范式为目标的破坏性创新；其核心意义在于降低对唯一生存路径的依赖。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000548",
+      "p000551",
+      "p000554",
+      "p000556",
+      "p000559"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000554",
+        "quote": "基于同一基础，创造一个完全独立的新系统，为系统提供并行的演化路径"
+      },
+      {
+        "block_id": "p000556",
+        "quote": "分叉式创新让系统“不会被单一路径锁死”。"
+      }
+    ],
+    "scope_and_limits": [
+      "“分叉”在本书中跨越代码、组织和生活路径等场景，不只指软件仓库操作。新分支是否可存续，仍取决于资源、协作、连接与可进入性；复制一份代码或形式上另立组织，不等于已获得真实可用的替代路径。"
+    ],
+    "related_concept_names": [
+      "创新",
+      "退出",
+      "退出成本",
+      "核心—边缘双层生存结构"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch04-s02",
+      "ch04-s03"
+    ],
+    "related_concept_ids": [
+      "concept-innovation",
+      "concept-exit",
+      "concept-exit-cost",
+      "concept-core-periphery-survival"
+    ]
+  },
+  {
+    "id": "concept-governance",
+    "name": "治理",
+    "aliases": [
+      {
+        "term": "G",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "治理强度",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "秩序生产机制",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "governance",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，治理（G）是通过权力、规则与执行建立可预期协作秩序、降低内部交易成本并防止无序解体的机制。它为合作提供支撑与边界，同时可能在扩张中压缩探索空间、耗用冗余。因此系统既需要足以维持基本秩序的治理，也需要对其扩张形成约束。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000605",
+      "p000606",
+      "p000608",
+      "p000631",
+      "p000637"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000605",
+        "quote": "治理（G），是系统通过权力、规则与执行，构建可预期的协作秩序"
+      },
+      {
+        "block_id": "p000631",
+        "quote": "治理必须足够强大，才能维持秩序"
+      },
+      {
+        "block_id": "p000637",
+        "quote": "治理不足，合作瓦解；创新不足，系统僵化；冗余不足，一次失误就可能堵死后续的道路。"
+      }
+    ],
+    "scope_and_limits": [
+      "治理在本书中适用于协作系统，不只指国家政府。作者对治理风险的批评并不构成“治理越少越好”；撤除基本安全、产权、合同和争议处理机制也可能损害创新及真实退出。"
+    ],
+    "related_concept_names": [
+      "GIR生存不等式",
+      "治理扩张",
+      "退出",
+      "最小必要治理"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch05-s02",
+      "ch05-s03",
+      "ch05-s04",
+      "ch06"
+    ],
+    "related_concept_ids": [
+      "concept-gir-survival-inequality",
+      "concept-governance-expansion",
+      "concept-exit",
+      "concept-minimum-viable-governance"
+    ]
+  },
+  {
+    "id": "concept-gir-survival-inequality",
+    "name": "GIR生存不等式",
+    "aliases": [
+      {
+        "term": "G×I≤R",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "G × I ≤ R",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "关系性的生存不等式",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "G—I—R 关系框架",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "GIR relational survival inequality",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，G×I≤R 是表达治理、创新与冗余动态约束关系的关系性生存不等式，不是用于代入数值求解的数学公式。在本书讨论的、需要持续适应变化的协作系统内，G、I、R 均大于零；“×”表示治理与创新的相互作用，“≤”提示这种作用受到冗余承载力约束。核心要求是维持合作、保留探索，并让试错规模与缓冲能力相匹配。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000636",
+      "p000637",
+      "p000725",
+      "p001063",
+      "p001091"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000637",
+        "quote": "G×I≤R是一条关系性的生存不等式。"
+      },
+      {
+        "block_id": "p000637",
+        "quote": "所以G、I、R均大于零。"
+      },
+      {
+        "block_id": "p000637",
+        "quote": "这里的“×”表示治理与创新的相互作用，而“≤”提示这种相互作用受到冗余承载力的约束。"
+      }
+    ],
+    "scope_and_limits": [
+      "不得据此计算数值、物理量纲、临界值或系统存活概率，也不得以形式上的乘积下降推导创新减少或治理归零会更安全。正文中的 I≈0、G≈0 是失衡状态的近似描述；该关系不是充分生存条件或已获实证验证的普适定律。"
+    ],
+    "related_concept_names": [
+      "治理",
+      "创新",
+      "冗余",
+      "退出",
+      "容错生存"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch06",
+      "ch06-s02",
+      "ch09-s01"
+    ],
+    "related_concept_ids": [
+      "concept-fault-tolerant-survival",
+      "concept-redundancy",
+      "concept-innovation",
+      "concept-governance",
+      "concept-exit"
+    ]
+  },
+  {
+    "id": "concept-governance-expansion",
+    "name": "治理扩张",
+    "aliases": [
+      {
+        "term": "治理膨胀",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "governance expansion",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，治理扩张是规则、权限、层级与控制范围持续增加，逐渐超出维持协作所需边界的过程。作者提出五层相互强化的机制：治理收益与成本不对称、维护边界和权威的激励、对即时失序的偏重、规则单向累积，以及成功路径的固化。局部合理决策因此可能压缩整体创新并消耗冗余。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000746",
+      "p000749",
+      "p000767",
+      "p000770",
+      "p000779"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000746",
+        "quote": "只是问题消失后，规则还在；使命完成后，机构还在。"
+      },
+      {
+        "block_id": "p000770",
+        "quote": "规则体系本身，存在着“只增不减”的单向棘轮效应"
+      },
+      {
+        "block_id": "p000779",
+        "quote": "用于应对风险与试错的缓冲空间持续收窄。"
+      }
+    ],
+    "scope_and_limits": [
+      "五层机制及其必然性是作者的解释框架。新增规则可能在特定情境下属于必要治理，不能仅凭规则增多即判定异化；本书关于道德、制度和理性约束不足的强判断不等于已证明这些机制在所有场景都无效。"
+    ],
+    "related_concept_names": [
+      "治理",
+      "退出",
+      "活尸态",
+      "退出压制螺旋",
+      "最小必要治理"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch07-s01"
+    ],
+    "related_concept_ids": [
+      "concept-governance",
+      "concept-exit",
+      "concept-zombie-state",
+      "concept-exit-suppression-spiral",
+      "concept-minimum-viable-governance"
+    ]
+  },
+  {
+    "id": "concept-exit",
+    "name": "退出",
+    "aliases": [
+      {
+        "term": "E",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "Exit",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "退出机制",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "退出权",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      }
+    ],
+    "definition": "本书中，退出（E）首先指参与者撤离当前系统、转向替代路径的能力与权利，可以表现为迁徙、资源转移、协议切换、代码分叉或合作重组。作者同时用“退出”讨论失效结构的出清：主动离开可以开辟新空间，被动清除可以释放旧占用。作为治理约束，关键是退出通道真实可用，且“可能离开”会改变治理者面对的成本。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000195",
+      "p000787",
+      "p000789",
+      "p000791",
+      "p000828"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000787",
+        "quote": "退出，是参与者撤离当前系统、转向替代路径的能力与权利。"
+      },
+      {
+        "block_id": "p000789",
+        "quote": "退出（E）是定义这些变量如何演化的边界条件"
+      },
+      {
+        "block_id": "p000791",
+        "quote": "退出机制的力量，不来自“已经发生”，而来自“随时可能发生”"
+      }
+    ],
+    "scope_and_limits": [
+      "须区分参与者主动退出权、失败结构的出清和灾难性强制退出，不能把三者视作同等可取。退出是本书提出的关键约束与演化前提，不是存续的充分条件，也不是所有人都应立即离开；它不消灭必要治理。"
+    ],
+    "related_concept_names": [
+      "退出优先",
+      "退出成本",
+      "治理",
+      "分叉式创新",
+      "冗余"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch01-s01",
+      "ch07-s02"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-fork-innovation",
+      "concept-governance",
+      "concept-exit-first",
+      "concept-exit-cost"
+    ]
+  },
+  {
+    "id": "concept-exit-first",
+    "name": "退出优先",
+    "aliases": [
+      {
+        "term": "Exit-First",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "审视系统演化的第一性原理",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "exit first",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，退出优先（Exit-First）是在审视、进入和评价一个协作系统时，优先检查其成员能否真实离开、是否存在替代路径，以及退出能否对治理形成资源性的约束。作者借此把退出放在反馈、创新、自由与持续演化的基础位置，并主张在参与之前就明确出口。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000866",
+      "p000868",
+      "p000946",
+      "p001041",
+      "p001042"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000946",
+        "quote": "它将“理论上的多路径”转化为“现实中的可选择路径”"
+      },
+      {
+        "block_id": "p001042",
+        "quote": "首先要看这个系统，是否把“退出”作为了第一要义。"
+      }
+    ],
+    "scope_and_limits": [
+      "“第一性原理”及“没有退出，没有……”是作者组织全书的主张，不能转写成已被各学科共同接受的排他性定理。“优先检查退出”也不等于忽略发声、内部纠错、基本秩序和离开之后的生存条件。"
+    ],
+    "related_concept_names": [
+      "退出",
+      "退出成本",
+      "治理扩张",
+      "容错生存",
+      "最小必要治理"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch08",
+      "ch08-s01",
+      "ch08-s03",
+      "ch08-s05"
+    ],
+    "related_concept_ids": [
+      "concept-fault-tolerant-survival",
+      "concept-governance-expansion",
+      "concept-exit",
+      "concept-exit-cost",
+      "concept-minimum-viable-governance"
+    ]
+  },
+  {
+    "id": "concept-exit-cost",
+    "name": "退出成本",
+    "aliases": [
+      {
+        "term": "Exit Cost",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "EC",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "Ec",
+        "language": "symbol",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "系统锁死引力",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      }
+    ],
+    "definition": "本书中，退出成本是参与者从当前协作系统剥离并进入可替代平行系统所需付出的综合代价。作者将其拆为制度性成本、经济成本、路径缺失成本、连带风险成本与信息成本，并强调单一严重障碍及多种障碍的耦合，可能使形式上的离开权失去实际可用性。该框架用来诊断出口是否真实和重新开始是否可行。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001103",
+      "p001106",
+      "p001130",
+      "p001236",
+      "p001245"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001103",
+        "quote": "从当前协作系统中完整剥离、并进入可替代的平行系统，所需付出的全部综合代价。"
+      },
+      {
+        "block_id": "p001130",
+        "quote": "退出成本绝不是五大维度的简单加减法，而是耦合放大的乘法效应。"
+      },
+      {
+        "block_id": "p001236",
+        "quote": "用五大维度的量化打分作为示意"
+      }
+    ],
+    "scope_and_limits": [
+      "EC/Ec 是同一概念的正文记号。五维分解、max表达和“耦合惩罚”属于作者诊断模型，正文没有给出统一单位、权重或可复现的估计方法；历史案例1—10分为示意，不能当作测量数据、验证量表或确定性因果证据。"
+    ],
+    "related_concept_names": [
+      "退出",
+      "退出优先",
+      "丛林、广场与监狱模型",
+      "活尸态",
+      "最小必要治理",
+      "核心—边缘双层生存结构"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch09-s02",
+      "ch09-s04"
+    ],
+    "related_concept_ids": [
+      "concept-exit",
+      "concept-exit-first",
+      "concept-jungle-square-prison",
+      "concept-zombie-state",
+      "concept-minimum-viable-governance",
+      "concept-core-periphery-survival"
+    ]
+  },
+  {
+    "id": "concept-jungle-square-prison",
+    "name": "丛林、广场与监狱模型",
+    "aliases": [
+      {
+        "term": "丛林、广场与监狱",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "jungle, square and prison model",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书以三个思想模型解释秩序与选择的关系：监狱型通过封闭出口、扩大控制来维持稳定；丛林型缺少可信的基本治理，使资源耗于冲突与防御，出口也未必可用；广场型以必要秩序保障交易、试错与离开，并由真实替代选择约束治理。多个广场的进入机会有助于使退出落到实处。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001066",
+      "p001068",
+      "p001082",
+      "p001092",
+      "p001096"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001066",
+        "quote": "是理解组织运行方式的三个思想模型，并非现实中的具体形态。"
+      },
+      {
+        "block_id": "p001082",
+        "quote": "治理不足并不意味着退出自由。"
+      },
+      {
+        "block_id": "p001096",
+        "quote": "一个广场的退出通道，往往需要另一个广场的进入机会才能真正成立。"
+      }
+    ],
+    "scope_and_limits": [
+      "三种原型不能直接套作对现实社会、组织或个人的二分判决。广场需要基本秩序，丛林并非真正的无规则状态；有法律上的离开许可，也不等于承担得起代价、找得到可进入的替代系统。"
+    ],
+    "related_concept_names": [
+      "治理",
+      "退出",
+      "退出成本",
+      "最小必要治理",
+      "GIR生存不等式"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch09-s01"
+    ],
+    "related_concept_ids": [
+      "concept-governance",
+      "concept-gir-survival-inequality",
+      "concept-exit",
+      "concept-exit-cost",
+      "concept-minimum-viable-governance"
+    ]
+  },
+  {
+    "id": "concept-zombie-state",
+    "name": "活尸态",
+    "aliases": [
+      {
+        "term": "僵尸型系统",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "僵尸型",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "zombie state",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，活尸态是旧结构持续占用资源、退出和清算受阻，而系统仍保持表面运转却逐渐失去适应能力的状态。其特征包括治理维持自身、创新受限于旧路径、真实退出反馈被屏蔽和冗余持续消耗。它区别于已经完成旧结构清算的崩溃，也可用来描述参与者被长期困在无效合作中的处境。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001142",
+      "p001143",
+      "p001211",
+      "p001215",
+      "p001217"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001143",
+        "quote": "活尸态 = 退出中断 → 资源持续占用 → 系统性耗散"
+      },
+      {
+        "block_id": "p001215",
+        "quote": "负面反馈无法穿透治理壁垒上传至决策层。"
+      },
+      {
+        "block_id": "p001217",
+        "quote": "它从“系统生存的保险金”，彻底沦为“延缓死亡的缓冲垫”。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是作者用于系统诊断的概念，不能凭疲劳、报表多或增长放缓等单一表现给现实主体下确定结论。EC≈∞、I趋近零是锁定程度的极端描述；它不证明退出成本、创新或崩溃时间已能精确计算，也不把崩溃说成必然有益。"
+    ],
+    "related_concept_names": [
+      "治理扩张",
+      "退出成本",
+      "退出压制螺旋",
+      "冗余",
+      "核心—边缘双层生存结构"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch09-s03"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-governance-expansion",
+      "concept-exit-cost",
+      "concept-exit-suppression-spiral",
+      "concept-core-periphery-survival"
+    ]
+  },
+  {
+    "id": "concept-exit-suppression-spiral",
+    "name": "退出压制螺旋",
+    "aliases": [
+      {
+        "term": "exit suppression spiral",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，退出压制螺旋指治理者为阻止成员或资源离开而增加监控、路径壁垒、留存赎买和惩罚执行，相关成本又削弱冗余与创新、降低系统吸引力，从而引发更强退出压力和更多压制的自我强化过程。延迟对失效结构的清算还会累积作者所称的“退出债务”，把调整成本转移到未来。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001145",
+      "p001166",
+      "p001167",
+      "p001169",
+      "p001220"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001166",
+        "quote": "形成一个不可逆的、自我放大的恶性循环，我们将其定义为退出压制螺旋"
+      },
+      {
+        "block_id": "p001169",
+        "quote": "退出压力 ↑ → 治理强度 ↑ → 治理成本 ↑ → 系统冗余 ↓ + 创新活力 ↓ → 退出压力 ↑"
+      },
+      {
+        "block_id": "p001220",
+        "quote": "本该完成的风险清算与结构出清被无限延迟"
+      }
+    ],
+    "scope_and_limits": [
+      "“退出债务”在此是延迟清算的分析性比喻，不是可直接入账的会计负债。不能把所有留存福利、信息收集或规则执行都判作压制退出；需辨认其是否封闭真实选择、转嫁成本并形成该反馈链条。"
+    ],
+    "related_concept_names": [
+      "退出成本",
+      "治理扩张",
+      "活尸态",
+      "冗余",
+      "退出"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch09-s03"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-governance-expansion",
+      "concept-exit",
+      "concept-exit-cost",
+      "concept-zombie-state"
+    ]
+  },
+  {
+    "id": "concept-minimum-viable-governance",
+    "name": "最小必要治理",
+    "aliases": [
+      {
+        "term": "MVG",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "Minimum Viable Governance",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "最小必要状态",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      }
+    ],
+    "definition": "本书中，最小必要治理（MVG）是作者提出的退出约束下的治理边界状态：治理足以守住基本安全、协作秩序与退出权，同时不因规则和权力扩张压制探索。作者推演，退出成本足够低且替代系统可行时，治理过多与过少都可能促使成员离开，从而形成双向约束，使治理靠近系统真实所需的范围。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001255",
+      "p001259",
+      "p001268",
+      "p001284",
+      "p001285"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001259",
+        "quote": "治理不是越少越好，而是需要找到一个“不多不少，刚刚好”的均衡点。"
+      },
+      {
+        "block_id": "p001284",
+        "quote": "既不破坏系统基本秩序、又不压制演化活力的最小边界状态。"
+      },
+      {
+        "block_id": "p001285",
+        "quote": "MVG的核心本质，不是“少治理”，更不是“无治理”"
+      }
+    ],
+    "scope_and_limits": [
+      "MVG在本书中的含义与推演属于作者框架，不直接等同其他语境中同缩写概念。Ec→0是理想极限，真实系统仍有退出摩擦；“自动收敛”“最优稳态”不是已证明的普遍保证，正文也明确治理无法精确计算。"
+    ],
+    "related_concept_names": [
+      "治理",
+      "退出",
+      "退出成本",
+      "丛林、广场与监狱模型",
+      "核心—边缘双层生存结构",
+      "公共品供给重构"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch10-s01"
+    ],
+    "related_concept_ids": [
+      "concept-governance",
+      "concept-exit",
+      "concept-exit-cost",
+      "concept-jungle-square-prison",
+      "concept-core-periphery-survival",
+      "concept-public-goods-reconstruction"
+    ]
+  },
+  {
+    "id": "concept-core-periphery-survival",
+    "name": "核心—边缘双层生存结构",
+    "aliases": [
+      {
+        "term": "核心 - 边缘双层生存结构",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "核心 - 边缘结构",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "core–periphery two-layer survival structure",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，核心—边缘结构依据退出成本分层：核心与既有路径深度绑定，承担连续性、基本秩序与公共品支撑；边缘保留较低退出成本，承担试错、分叉和对治理的外部约束。作者强调三项健康边界：边缘能低成本退出，核心保持相对稳定，成功创新能进入核心、过时核心结构能有序边缘化并退出。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001338",
+      "p001340",
+      "p001344",
+      "p001348",
+      "p001357"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001338",
+        "quote": "核心与边缘的本质差异，不是权力大小、规模多少、地位高低，而是退出成本的高低。"
+      },
+      {
+        "block_id": "p001348",
+        "quote": "并非只要形成了核心 - 边缘分层，系统就能实现长期演化。"
+      },
+      {
+        "block_id": "p001357",
+        "quote": "核心与边缘不是相互割裂、完全对立的，而是必须保持双向开放、可自由流动的通道。"
+      }
+    ],
+    "scope_and_limits": [
+      "不能把高退出成本一概判为有害，也不能用核心稳定为无限绑定或永久特权辩护。本书允许核心相对稳定并要求其缓慢迭代；“所有长寿系统必然如此”是作者的普遍化主张，拥有两层结构本身不是长寿的充分条件。"
+    ],
+    "related_concept_names": [
+      "退出成本",
+      "最小必要治理",
+      "创新",
+      "分叉式创新",
+      "公共品供给重构",
+      "活尸态"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch10-s03"
+    ],
+    "related_concept_ids": [
+      "concept-innovation",
+      "concept-fork-innovation",
+      "concept-exit-cost",
+      "concept-zombie-state",
+      "concept-minimum-viable-governance",
+      "concept-public-goods-reconstruction"
+    ]
+  },
+  {
+    "id": "concept-public-goods-reconstruction",
+    "name": "公共品供给重构",
+    "aliases": [
+      {
+        "term": "MVG 下的公共品供给重构",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语。"
+      },
+      {
+        "term": "reconstruction of public-goods provision",
+        "language": "en",
+        "type": "direct_translation",
+        "note": "本知识包所作的直译，仅帮助跨语言检索，不表示本书采用了通用标准英文术语。"
+      }
+    ],
+    "definition": "本书中，公共品供给重构是作者对低退出成本条件下协作基础如何持续供给的推演。边缘成员可选择离开，使核心从依靠强制留存转向提供值得留下的服务；作者据此提出竞争性公共品、可组合的模块化供给与经选择筛选的自发秩序三种机制，并把稳定理解为个体可以离开而仍愿意合作。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001367",
+      "p001378",
+      "p001382",
+      "p001395",
+      "p001401"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001367",
+        "quote": "即便边缘层的个体随时能走，仍然愿意主动留下。"
+      },
+      {
+        "block_id": "p001395",
+        "quote": "公共品从核心层不可拆分的整体供给，变成了边缘层可自由组合的服务菜单。"
+      },
+      {
+        "block_id": "p001401",
+        "quote": "无效的规则会因为个体的持续退出而被淘汰，有效的规则会因为个体的持续加入而被强化、扩散。"
+      }
+    ],
+    "scope_and_limits": [
+      "这里记录的是作者对公共品及协作基础的广义使用和制度推演；不能据此断定列举的城市、平台、安全、教育等服务属于完全相同的经济学类别，也不能认定退出自由已足以解决所有搭便车、筹资、互操作与连续供给问题。"
+    ],
+    "related_concept_names": [
+      "最小必要治理",
+      "核心—边缘双层生存结构",
+      "退出",
+      "治理",
+      "丛林、广场与监狱模型"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch10-s04"
+    ],
+    "related_concept_ids": [
+      "concept-governance",
+      "concept-exit",
+      "concept-jungle-square-prison",
+      "concept-minimum-viable-governance",
+      "concept-core-periphery-survival"
+    ]
+  },
+  {
+    "id": "concept-app-01",
+    "name": "退出友好型公司",
+    "aliases": [
+      {
+        "term": "低耦合化、契约化、模块化公司",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "创业状态",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者提出的公司设计取向：股东、员工、客户和业务单元保有实际可用的退出、重组与替换选项，协作由持续创造价值维系；组织通过低耦合、清晰契约和模块化来保留局部更新能力。",
+    "claim_status": "author_proposal",
+    "source_block_ids": [
+      "p001778",
+      "p001781",
+      "p001787"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001778",
+        "quote": "退出友好型公司有三大核心特征：低耦合化、契约化、模块化。"
+      },
+      {
+        "block_id": "p001781",
+        "quote": "模块化让公司在保持整体稳定的同时，拥有局部“新陈代谢”的能力。"
+      },
+      {
+        "block_id": "p001787",
+        "quote": "改变系统的关键，不在于将公司绑得更紧，而在于让每一个参与者——股东、员工、客户——都保留随时退出的能力。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是本书的组织设计主张，不能据此保证某家公司永不僵化或永不失败。",
+      "股票可交易、股东可卖出不等于所有员工、业务和资产均能低成本退出；书中同时讨论规模、技能、期权和固定资产造成的锁定。",
+      "当拆解成本过高时，作者提出用上层原则、日落条款等约束流程扩张，并承认这不能从结构上解决退出成本过高的问题。"
+    ],
+    "related_concept_names": [
+      "退出成本",
+      "最小必要治理",
+      "冗余",
+      "软退出"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch12-s06"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-exit-cost",
+      "concept-minimum-viable-governance",
+      "concept-app-09"
+    ]
+  },
+  {
+    "id": "concept-app-02",
+    "name": "宗教分叉生态",
+    "aliases": [
+      {
+        "term": "宗教的演化森林",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "高分叉宗教系统",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者把宗教的持续存在理解为多个教派、解释与实践分支组成的演化生态：局部分支可以退出，整体不必依赖某一组织永久存续；可改宗、可分叉使教派须凭意义供给和共同体服务维持吸引力。",
+    "claim_status": "author_interpretation",
+    "source_block_ids": [
+      "p002135",
+      "p002147",
+      "p002162"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002135",
+        "quote": "宗教不是一棵必须整株存活的大树，而是一片可以容忍任何单株枯萎的森林。这正是它长寿的第一个秘密。"
+      },
+      {
+        "block_id": "p002147",
+        "quote": "宗教内部治理的本质，是一种在退出自由严格约束下的、竞争性的公共品供给机制。"
+      },
+      {
+        "block_id": "p002162",
+        "quote": "分歧不解决、冲突不统一、矛盾不消除——它们只是被分叉隔离到不同的分支中。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是对宗教长寿机制的作者解释，不代表全部宗教、全部历史时期都允许低成本退出。",
+      "书中也明确指出，禁止分叉、政教合一或以强制手段封锁改宗，会破坏上述机制。",
+      "宗教中的局部强治理与寡头结构并未被排除；关键条件是退出和替代确实可行。"
+    ],
+    "related_concept_names": [
+      "分叉",
+      "退出权",
+      "治理约束",
+      "冗余"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch15-s01",
+      "ch15-s02"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy"
+    ]
+  },
+  {
+    "id": "concept-app-03",
+    "name": "动态中心演化系统",
+    "aliases": [
+      {
+        "term": "DAO动态中心",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "可退出的股份制寡头结构",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者对DAO的结构性描述：低退出成本可能使边缘参与者选择离开而非参与治理，效率竞争和Token机制又使治理权向核心收敛；其区别被放在中心可被退出与分叉淘汰，而非组织从此没有中心。",
+    "claim_status": "author_interpretation",
+    "source_block_ids": [
+      "p002277",
+      "p002279",
+      "p002325"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002277",
+        "quote": "DAO由此自然形成了一种“可退出的股份制寡头结构”。治理权高度集中，但退出权始终掌握在每个个体手中。"
+      },
+      {
+        "block_id": "p002279",
+        "quote": "DAO不是分布式自治的乌托邦，而是一个由退出机制持续塑形的动态中心演化系统。"
+      },
+      {
+        "block_id": "p002325",
+        "quote": "主体寡头化——决策由极少数拥有最多token的核心完成。"
+      }
+    ],
+    "scope_and_limits": [
+      "必须保留作者同时强调的两面：治理集中化可以发生，退出保障是其正当性与可淘汰性的前提。",
+      "书中“无成本”“无摩擦”“退出权从未被剥夺”等表述属于模型设定或作者判断，不能直接当作任一现实DAO已满足的事实。",
+      "出售Token、迁移资产与关系、复制代码、延续共同体是不同环节；检索回答不能把其中一个环节自动等同于完整退出能力。"
+    ],
+    "related_concept_names": [
+      "DAO",
+      "退出权",
+      "分叉",
+      "规则的开放竞争市场"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch17-s02",
+      "ch17-s03",
+      "ch17-s04"
+    ],
+    "related_concept_ids": [
+      "concept-app-04"
+    ]
+  },
+  {
+    "id": "concept-app-04",
+    "name": "规则的开放竞争市场",
+    "aliases": [
+      {
+        "term": "治理从约束转向吸引",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "制度竞争市场",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者设想的DAO治理机制：参与者通过进入、退出和资本流动选择不同规则，规则本身接受比较、复制与淘汰；治理因此需要回答参与者为什么愿意留下。",
+    "claim_status": "author_proposal",
+    "source_block_ids": [
+      "p002291",
+      "p002303",
+      "p002311",
+      "p002312",
+      "p002313"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002291",
+        "quote": "问题不再是：“我们该如何管理这些人？”而变成：“为什么这些人要留下？”"
+      },
+      {
+        "block_id": "p002303",
+        "quote": "DAO不再是一个组织，而更像一个市场：一个 “规则的开放竞争市场”。"
+      },
+      {
+        "block_id": "p002311",
+        "quote": "错误的规则 → 用户流失；"
+      },
+      {
+        "block_id": "p002312",
+        "quote": "有争议的规则 → 分叉；"
+      },
+      {
+        "block_id": "p002313",
+        "quote": "有效的规则 → 被复制。"
+      }
+    ],
+    "scope_and_limits": [
+      "机制成立以替代规则存在、退出可行、信息可比较及资源可迁移为前提；这是作者的制度推演。",
+      "智能合约的确定执行不等于规则正确，原文明确承认错误仍会发生。",
+      "书中的“第一次”“完全市场化”等历史性和普遍性断言未经本知识条目独立核验，引用时应归属于作者。"
+    ],
+    "related_concept_names": [
+      "动态中心演化系统",
+      "DAO",
+      "分叉",
+      "主权个人"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch17-s04"
+    ],
+    "related_concept_ids": [
+      "concept-app-03",
+      "concept-app-06"
+    ]
+  },
+  {
+    "id": "concept-app-05",
+    "name": "沙漏结构",
+    "aliases": [
+      {
+        "term": "沙漏治理结构",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者用来描述DAO理想结构的比喻：创新层广泛开放，治理层保持最小必要规模，冗余层持续生成并支持试错；结构中治理主体仍可能集中于少数Token持有者。",
+    "claim_status": "author_proposal",
+    "source_block_ids": [
+      "p002323",
+      "p002325",
+      "p002327",
+      "p002328",
+      "t008"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002323",
+        "quote": "而DAO趋向于一种全新的形态——沙漏结构。"
+      },
+      {
+        "block_id": "p002325",
+        "quote": "主体寡头化——决策由极少数拥有最多token的核心完成。"
+      },
+      {
+        "block_id": "p002327",
+        "quote": "治理最小化——能不治理的，不治理。"
+      },
+      {
+        "block_id": "p002328",
+        "quote": "在最小必要治理的约束下，权力被消解为服务，规则被限定在必要，并被合约自动执行。"
+      },
+      {
+        "block_id": "t008",
+        "quote": "创新层（I）"
+      },
+      {
+        "block_id": "t008",
+        "quote": "冗余层（R）"
+      }
+    ],
+    "scope_and_limits": [
+      "这是组织形态的理论比喻与设计目标，并非经测量确定的层级比例或所有DAO的现实形状。",
+      "不能省略同段附近的“主体寡头化”；治理最小化与治理权分散不是同一概念。",
+      "创新最大化、冗余持续增强和规避崩溃是作者期望的结果，不能作为技术保证。"
+    ],
+    "related_concept_names": [
+      "最小必要治理",
+      "创新",
+      "冗余",
+      "动态中心演化系统"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch17-s04"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-innovation",
+      "concept-minimum-viable-governance",
+      "concept-app-03"
+    ]
+  },
+  {
+    "id": "concept-app-06",
+    "name": "主权个人",
+    "aliases": [
+      {
+        "term": "主权个体",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者为分布式文明提出的基本单元：个体拥有可迁移的身份、跨系统创造与交换价值的能力，以及不以身份、财富和生存机会全面丧失为代价的退出自由，不再被单一协作系统完全定义。",
+    "claim_status": "author_proposal",
+    "source_block_ids": [
+      "p002423",
+      "p002427",
+      "p002443"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002423",
+        "quote": "所谓主权个人，不是传统意义上的财富自由，也不是无政府主义的独来独往，而是个体彻底摆脱了对单一中心化系统的人身、身份、经济依附，拥有身份自主、经济自主和退出自由，三项不可剥夺的核心能力。"
+      },
+      {
+        "block_id": "p002427",
+        "quote": "这三项能力的核心，始终是退出自由。没有退出自由，身份自主与经济自主就毫无意义——如果个体无法脱离不认可的系统，那么无论拥有多少财富、多独立的身份，最终依然会被中心化的治理体系裹挟，成为被治理的对象。"
+      },
+      {
+        "block_id": "p002443",
+        "quote": "他不再被任何单一系统完全定义，也不再因退出任何一个系统而失去全部社会身份。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是书中规定的理想型，不等于现实中的法定主权地位，也不表示个人天然免受法律、物理环境和基础设施约束。",
+      "原文将身份自主、经济自主与退出自由联结；仅有加密资产或链上身份不能自动证明三者全部实现。",
+      "作者不把主权个人定义为孤立生活，而允许个体同时参与多个组织、地域和协议。"
+    ],
+    "related_concept_names": [
+      "退出权",
+      "分布式文明",
+      "规则的开放竞争市场"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch18-s02",
+      "ch18-s03"
+    ],
+    "related_concept_ids": [
+      "concept-app-04",
+      "concept-app-07"
+    ]
+  },
+  {
+    "id": "concept-app-07",
+    "name": "分布式文明",
+    "aliases": [
+      {
+        "term": "退出驱动的文明演化路径",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "治理服务生态系统",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者提出的文明方向：地域型治理、协议型网络与临时任务组织多层并存，个体可以跨系统组合身份和协作；不同单元在退出压力下以规则、服务和协调效率竞争。",
+    "claim_status": "author_proposal",
+    "source_block_ids": [
+      "p002439",
+      "p002440",
+      "p002442",
+      "p002444"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002439",
+        "quote": "地域型治理单元——国家、城市、区域联盟——继续在物理空间相关事务中发挥作用。"
+      },
+      {
+        "block_id": "p002440",
+        "quote": "协议型协作网络——DAO、开源社区、加密网络——以代码为规则基础，以分叉为退出保障，在信息与价值交换领域实现最低成本的治理竞争。"
+      },
+      {
+        "block_id": "p002442",
+        "quote": "这些结构之间并非替代关系，而是围绕不同退出成本与协调复杂度形成的分工体系。"
+      },
+      {
+        "block_id": "p002444",
+        "quote": "它不再是单一中心的权力结构，而更接近一个治理服务的生态系统。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是以前提成立为条件的未来推演，不能表述为国家已被DAO替代或传统权力已消失。",
+      "书中明确说多层结构形成分工，地域治理仍处理物理空间事务，不能简化为所有治理彻底去地域化。",
+      "中世纪城邦和美国州际竞争是作者使用的历史或现实类比，并非单凭案例即可证明全部文明将按此演化。"
+    ],
+    "related_concept_names": [
+      "主权个人",
+      "规则的开放竞争市场",
+      "退出空间边界"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch18-s03"
+    ],
+    "related_concept_ids": [
+      "concept-app-04",
+      "concept-app-06",
+      "concept-app-08"
+    ]
+  },
+  {
+    "id": "concept-app-08",
+    "name": "退出空间边界",
+    "aliases": [
+      {
+        "term": "退出空间枯竭",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "有限演化空间",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者对退出机制所加的环境边界：退出不仅是名义权利，还必须有可进入的替代空间；生态位、冗余再生速度和承载密度有限时，出口可能枯竭，并与增量枯竭、锁定和低收益重复共同形成其所说的内卷。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p002486",
+      "p002487",
+      "p002488",
+      "p002489",
+      "p002490",
+      "p002480"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002486",
+        "quote": "遗憾的是，任何演化系统，都必须直面一个冰冷的现实，退出不是一种抽象的权利，而是一种被客观环境允许的行为。"
+      },
+      {
+        "block_id": "p002487",
+        "quote": "在所有真实的演化系统中，无论生物个体、生态系统、组织、市场、帝国，还是整个人类文明，退出的边界都被三道不可突破的硬约束牢牢锁定："
+      },
+      {
+        "block_id": "p002488",
+        "quote": "生态位的总量有限，"
+      },
+      {
+        "block_id": "p002489",
+        "quote": "冗余的再生速率有限，"
+      },
+      {
+        "block_id": "p002490",
+        "quote": "个体与组织的承载密度有限。"
+      },
+      {
+        "block_id": "p002480",
+        "quote": "一句话定义内卷：内卷 = 冗余的竞争者 + 被堵死的出口 + 零和博弈。"
+      }
+    ],
+    "scope_and_limits": [
+      "生态位与承载约束是本书讨论退出的边界，不意味着已建立关于所有系统最终命运的定量定律。",
+      "“所有退出终将枯竭”“内卷是必然归宿”应标为作者的终极判断，不能由本条目替其确证。",
+      "本书把内卷与无法离场及零和耗损联系起来；不宜将任何激烈竞争或任何资源稀缺直接标记为内卷。"
+    ],
+    "related_concept_names": [
+      "退出成本",
+      "冗余",
+      "活尸态",
+      "软退出",
+      "链上生态位"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch19-s02"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-exit-cost",
+      "concept-zombie-state",
+      "concept-app-09",
+      "concept-app-10"
+    ]
+  },
+  {
+    "id": "concept-app-09",
+    "name": "软退出",
+    "aliases": [
+      {
+        "term": "路径退出而非主体毁灭",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "退出与死亡解绑",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者对文明制度改进的概括：使失败的是一次尝试、企业、理论或治理路径，而让承载经验的主体有机会重新开始，以降低演化的淘汰代价。",
+    "claim_status": "author_proposal",
+    "source_block_ids": [
+      "p002496",
+      "p002498",
+      "p002502"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002496",
+        "quote": "人类文明数千年的努力，都在尝试解决一个问题——能不能让路径退出，而不是让主体退出？能不能让失败的是“这次尝试”，而不是“这个人”？能不能让退出不再必须以死亡为代价？这是人类对自然演化规则发起的第一次挑战。我们试图创造一种更温和的演化机制，保留演化的创新动力，同时剥离其残酷的淘汰成本。"
+      },
+      {
+        "block_id": "p002498",
+        "quote": "公司破产制度：让商业路径可以死亡，但创业者可以重新开始。一个失败的公司不会带走创业者的全部人生，经验和教训得以保留，个体可以带着教训进入下一轮创业。"
+      },
+      {
+        "block_id": "p002502",
+        "quote": "这是人类创造的“软退出”机制，它极大地降低了演化的社会成本，释放了前所未有的创新活力。"
+      }
+    ],
+    "scope_and_limits": [
+      "软退出不等于退出完全没有损失；破产、迁移或重组仍可能造成现实成本。",
+      "把公司或理论的退出与人的死亡区别开，是作者的制度目标；不能推出失败者在任何法域或情境下都能不受损失地重启。",
+      "此概念不能转述成对自然选择或个体死亡的简单道德辩护，也不是医学意义的延寿或复生方案。"
+    ],
+    "related_concept_names": [
+      "退出友好型公司",
+      "退出空间边界",
+      "链上生态位",
+      "分叉"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch19-s03"
+    ],
+    "related_concept_ids": [
+      "concept-app-01",
+      "concept-app-08",
+      "concept-app-10"
+    ]
+  },
+  {
+    "id": "concept-app-10",
+    "name": "链上生态位",
+    "aliases": [
+      {
+        "term": "信息的生态位",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      },
+      {
+        "term": "存在的分叉",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识整理检索标签，须结合definition理解，不保证与概念名称完全同义。"
+      }
+    ],
+    "definition": "作者在终章提出的数字生存设想：借助分布式网络、链上身份和智能体，让个人记忆、知识、价值取向与部分决策模式在物理生命之外留存和继续发挥作用，以探索新的退出空间。",
+    "claim_status": "author_speculation",
+    "source_block_ids": [
+      "p002512",
+      "p002513"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002512",
+        "quote": "链上生态位的本质，是信息的生态位。"
+      },
+      {
+        "block_id": "p002512",
+        "quote": "决策结构可以交给智能体，在主体缺席时继续运行；存在本身可以跨越物理寿命，在数字空间中持续演化。"
+      },
+      {
+        "block_id": "p002513",
+        "quote": "这并不意味着“人类不会死亡”。肉体仍然会衰老，仍然会死亡。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是作者的未来设想，不能当作意识上传、个人意识连续性、数字永生或人格复活已经实现的证明。",
+      "保存信息、构建模仿决策的智能体与原主体的主观体验延续是不同命题，原文没有提供实证验证。",
+      "“不依赖任何特定物理载体”不应解读为数字网络不需要物理设备、能源和维护；数字空间也不应被称作已证明无限的退出空间。"
+    ],
+    "related_concept_names": [
+      "软退出",
+      "主权个人",
+      "退出空间边界",
+      "分布式文明"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch19-s04"
+    ],
+    "related_concept_ids": [
+      "concept-app-06",
+      "concept-app-07",
+      "concept-app-08",
+      "concept-app-09"
+    ]
+  },
+  {
+    "id": "concept-evolution",
+    "name": "演化",
+    "aliases": [
+      {
+        "term": "演化",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，演化被解释为在不确定环境中持续试错、退出失效路径并生成新结构的过程。作者把路径搜索与路径优化并列：前者探索新可能，后者兑现既有路径的价值；被动出清促成收敛，主动离开旧路径促成扩展。退出由此被放在作者演化解释的必要前提位置。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000191",
+      "p000195",
+      "p001003",
+      "p002465"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000195",
+        "quote": "前者决定了系统的收敛，后者决定了系统的扩展。"
+      },
+      {
+        "block_id": "p001003",
+        "quote": "健康的系统，始终并行着两大核心动作，路径搜索与路径优化。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是本书对演化的跨领域思想性解释，不替代生物学中对演化、遗传变异或自然选择的具体定义。",
+      "退出被作者置于必要前提，不是系统长寿的充分条件；只有删除而无可行的新路径、冗余和基本协作也不能保证持续适应。",
+      "关于所有复杂系统共同规律、指数级加速等表述应归属于作者，不能视为本包已验证的跨学科定律。"
+    ],
+    "related_concept_names": [
+      "退出",
+      "创新",
+      "主动退出",
+      "被动退出",
+      "三项生存约束"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch01-s01",
+      "ch08-s05",
+      "ch19-s01"
+    ],
+    "related_concept_ids": [
+      "concept-exit",
+      "concept-innovation",
+      "concept-active-exit",
+      "concept-passive-exit",
+      "concept-three-survival-constraints"
+    ]
+  },
+  {
+    "id": "concept-active-exit",
+    "name": "主动退出",
+    "aliases": [
+      {
+        "term": "主动退出",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，主动退出是参与者离开既有路径、转向其他空间并重建结构的行为或能力。它可以表现为迁移、转型、协议切换和制度分叉，也可以先在认知中提出替代生活方式；作者用它解释系统如何从既有轨道向外扩展。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000195",
+      "p002453",
+      "p002456",
+      "p002472",
+      "p000787"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000195",
+        "quote": "系统参与者通过主动退出/离开既有路径，在新的空间中重建结构。"
+      },
+      {
+        "block_id": "p002456",
+        "quote": "在现实崩溃之前，先在认知中退出旧路径。"
+      }
+    ],
+    "scope_and_limits": [
+      "主动退出须有实际可行的替代路径与承受转换成本的能力，不能把愿望直接当成真实出口。",
+      "主动退出是作者与被动出清相区分的机制，不能把强制驱逐、战争和死亡自动归入自愿退出权。",
+      "第十九章关于人类区别于所有其他物种的排他性断言是作者判断，本条目不据此确证动物学习、迁徙或社会变化的能力边界。"
+    ],
+    "related_concept_names": [
+      "退出",
+      "被动退出",
+      "认知退出",
+      "演化",
+      "退出空间边界"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch01-s01",
+      "ch19-s01",
+      "ch07-s02"
+    ],
+    "related_concept_ids": [
+      "concept-exit",
+      "concept-passive-exit",
+      "concept-cognitive-exit",
+      "concept-evolution",
+      "concept-app-08"
+    ]
+  },
+  {
+    "id": "concept-passive-exit",
+    "name": "被动退出",
+    "aliases": [
+      {
+        "term": "被动退出",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，被动退出指失败或不可持续的结构在筛选、淘汰、清算中离场，从而释放原有资源或路径占用。作者把它与参与者主动转向新路径区分：被动退出侧重旧结构的删除与收敛，主动退出侧重生成新的生存空间。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000191",
+      "p000195",
+      "p002052",
+      "p002502"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000195",
+        "quote": "失败的结构通过被动退出被删除"
+      },
+      {
+        "block_id": "p002502",
+        "quote": "演化第一次从“消灭主体”转向“更新结构”。"
+      }
+    ],
+    "scope_and_limits": [
+      "被动退出可以造成损失，结构被清除并不保证新结构一定出现或整体一定改善。",
+      "公司、理论、制度路径的退出与人的死亡、物种灭绝不可不加区分地互换；本书另提出尽量保留主体的软退出方向。",
+      "不得将作者的跨系统删除类比变成对强迫个体消失或剥夺基本生存条件的主张。"
+    ],
+    "related_concept_names": [
+      "退出",
+      "主动退出",
+      "演化",
+      "软退出",
+      "失败隔离"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch01-s01",
+      "ch14-s02",
+      "ch19-s03"
+    ],
+    "related_concept_ids": [
+      "concept-exit",
+      "concept-active-exit",
+      "concept-evolution",
+      "concept-app-09",
+      "concept-failure-isolation"
+    ]
+  },
+  {
+    "id": "concept-cognitive-exit",
+    "name": "认知退出",
+    "aliases": [
+      {
+        "term": "认知退出",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，认知退出是在现实结构尚未崩溃之前，先从观念上松动旧规则与唯一路径，提出“有没有别的活法”，从而使分叉、并行试错及知识重组成为可能。它是作者讨论人类主动退出与文明演化时使用的解释概念。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000989",
+      "p002456",
+      "p002464"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002456",
+        "quote": "“有没有别的活法？”"
+      },
+      {
+        "block_id": "p002464",
+        "quote": "当前路径从来不等同于唯一路径。"
+      }
+    ],
+    "scope_and_limits": [
+      "想象替代路径只打开认知可能，不自动消除制度、经济、信息或空间壁垒。",
+      "“人类特有”“文明加速器”等判断属于作者的解释，不能作为认知科学或比较动物行为学的已定结论。"
+    ],
+    "related_concept_names": [
+      "主动退出",
+      "创新",
+      "演化",
+      "退出成本"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch08-s04",
+      "ch19-s01"
+    ],
+    "related_concept_ids": [
+      "concept-active-exit",
+      "concept-innovation",
+      "concept-evolution",
+      "concept-exit-cost"
+    ]
+  },
+  {
+    "id": "concept-hard-soft-feedback",
+    "name": "硬反馈与软反馈",
+    "aliases": [
+      {
+        "term": "硬反馈",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿实际用词。"
+      },
+      {
+        "term": "软反馈",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿实际用词。"
+      },
+      {
+        "term": "硬反馈与软反馈",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "知识卡将两个原文术语并置的主题标签，不是额外确立的标准术语。"
+      }
+    ],
+    "definition": "本书用软反馈指抱怨、建议和投票等可能被治理过程吸收、拖延或忽略的内部表达；用硬反馈指出走、停止交易和分叉等会带走真实人才、资本或用户资源的退出。作者强调，可信的离开可能也可在大规模实际离场之前约束治理。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000791",
+      "p000868",
+      "p000869",
+      "p000870",
+      "p000881"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000868",
+        "quote": "退出（Exit），是唯一无法被忽视、无法被消音的“硬反馈”。"
+      },
+      {
+        "block_id": "p000870",
+        "quote": "承载着真实资源流失的信号"
+      }
+    ],
+    "scope_and_limits": [
+      "“唯一”“无法被忽视”是作者突出资源性约束的强表述，不代表每次退出都足以改变强势治理者。",
+      "软反馈不等于毫无价值；本条目不把投票、协商、内部纠错和退出处理为现实中只能择一的制度选项。",
+      "可信退出威胁、实际资源离开与口头宣称想离开须区分；后者本身未必构成硬约束。"
+    ],
+    "related_concept_names": [
+      "退出",
+      "治理",
+      "治理扩张",
+      "退出成本"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch07-s02",
+      "ch08-s01"
+    ],
+    "related_concept_ids": [
+      "concept-exit",
+      "concept-governance",
+      "concept-governance-expansion",
+      "concept-exit-cost"
+    ]
+  },
+  {
+    "id": "concept-negative-knowledge",
+    "name": "负面知识",
+    "aliases": [
+      {
+        "term": "负面知识",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，负面知识是失败尝试留下的边界信息，即某条路径在已尝试条件下行不通。作者将它与失败项目遗留的人才、技术、代码和认知等可复用组件并列，解释失败如何成为后续创新的“演化堆肥”，减少重复试错并支持新的重组。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000579",
+      "p000580",
+      "p000581",
+      "p000582",
+      "p000583"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000581",
+        "quote": "为后来者节省了大量重复试错的成本。"
+      },
+      {
+        "block_id": "p000582",
+        "quote": "这些元素会散落在系统生态中，等待下一次创新的重组与复用。"
+      }
+    ],
+    "scope_and_limits": [
+      "“演化堆肥”是知识与组件复用的比喻，不表示失败消耗的全部资源都能回收。",
+      "某次失败显示的是特定条件下的边界，不能推出该方向在所有时间和环境下永远不可行。",
+      "只有经验被保存、传播或重新利用时，失败才可能为后续探索产生知识收益；不能据此断定任何失败都有净收益。"
+    ],
+    "related_concept_names": [
+      "创新",
+      "冗余",
+      "演化",
+      "失败隔离"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch04-s05"
+    ],
+    "related_concept_ids": [
+      "concept-innovation",
+      "concept-redundancy",
+      "concept-evolution",
+      "concept-failure-isolation"
+    ]
+  },
+  {
+    "id": "concept-failure-isolation",
+    "name": "失败隔离",
+    "aliases": [
+      {
+        "term": "失败隔离",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，失败隔离是通过物理或制度设计，把单一组件、局部试验或一次退出的损失限制在局部，避免沿耦合关系扩散为整体危机。作者将它列为冗余的具体形式，并在国家转型和干预边界中再次强调：允许局部失败，需要先控制其连锁代价。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p000517",
+      "p000518",
+      "p000519",
+      "p001909",
+      "p002115"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p000518",
+        "quote": "确保单一组件的失败不会引发连锁反应。"
+      },
+      {
+        "block_id": "p002115",
+        "quote": "确保每一次失败都停留在局部，每一次退出都不至于摧毁全局。"
+      }
+    ],
+    "scope_and_limits": [
+      "失败隔离是结构设计目标，不是已经保证零外部损失；是否隔离有效须看真实关联和承受能力。",
+      "不能把“允许失败”简化为拒绝全部救助或撤除保护；书中对干预的批评以防止风险堆积及全局扩散为重点。"
+    ],
+    "related_concept_names": [
+      "冗余",
+      "容错生存",
+      "退出的连带风险",
+      "冗余再建",
+      "创新"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch03-s01",
+      "ch13-s03",
+      "ch14-s05"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-fault-tolerant-survival",
+      "concept-exit-collateral-risk",
+      "concept-redundancy-rebuilding",
+      "concept-innovation"
+    ]
+  },
+  {
+    "id": "concept-exit-collateral-risk",
+    "name": "退出的连带风险",
+    "aliases": [
+      {
+        "term": "连带风险成本",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "五维退出成本中的原文用词。"
+      },
+      {
+        "term": "退出的连带风险",
+        "language": "zh",
+        "type": "retrieval_label",
+        "note": "汇总关联方与系统连锁损失的检索标签，定义仍以原文为界。"
+      }
+    ],
+    "definition": "本书既讨论个体退出对亲友、团队、关联方造成的连带代价，也描述高度耦合系统中突然离场引发的连锁损失。作者据此要求良性治理允许局部退出，同时使失败和损害尽量局部化；真实退出不能只看离开者是否有形式权利。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001121",
+      "p001473",
+      "p002057",
+      "p002115",
+      "p002249"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001121",
+        "quote": "失败与退出的代价，是否会像病毒一样在参与者的关系网中扩散。"
+      },
+      {
+        "block_id": "p002057",
+        "quote": "雷曼的“突然退出”引发了多米诺骨牌式的连环崩盘。"
+      }
+    ],
+    "scope_and_limits": [
+      "连带成本既可能来自人为惩罚，也可能来自真实抚育责任、依赖网络或资源中断，不能将所有关联责任一概称为人质机制。",
+      "本书个案用于结构解释，不提供任何一项救助、破产或分离决定的完整利弊计算；不可据此替代具体政策或法律判断。",
+      "可退出不等于退出免费、即时、无损，也不保证退出对原系统和新系统同样有利。"
+    ],
+    "related_concept_names": [
+      "退出成本",
+      "失败隔离",
+      "退出",
+      "公共品供给重构",
+      "软退出"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch09-s02",
+      "ch11-s03",
+      "ch14-s02",
+      "ch14-s05",
+      "ch17-s01"
+    ],
+    "related_concept_ids": [
+      "concept-exit-cost",
+      "concept-failure-isolation",
+      "concept-exit",
+      "concept-public-goods-reconstruction",
+      "concept-app-09"
+    ]
+  },
+  {
+    "id": "concept-exit-friendly-marriage",
+    "name": "退出友好型婚姻",
+    "aliases": [
+      {
+        "term": "退出友好型婚姻",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，退出友好型婚姻是作者提出的亲密关系设计取向：保留个体独立性、明确协作边界与退出程序，降低过度耦合，使双方在有能力离开的前提下继续自愿合作。书中将低耦合、契约化和需求模块化作为探索方向，同时提醒降低治理仍需要足够信任与共识。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001577",
+      "p001584",
+      "p001590",
+      "p001597",
+      "p001624"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001577",
+        "quote": "如何在双方都随时可以离开的前提下，仍然愿意主动选择留下"
+      },
+      {
+        "block_id": "p001624",
+        "quote": "盲目降低治理强度、拆除所有规则，只会导致系统边界彻底失守、行为完全失序。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是作者的制度与关系设想，不是所有婚姻的经验定律，不保证关系永久稳定或必然幸福。",
+      "降低锁定不等于免除子女抚育、财产安排及对其他相关方的责任；具体权利与程序仍取决于情境。",
+      "不能把作者关于性别、传统婚姻必然衰退或某些实践全球流行的判断，当作本包独立核验的普遍事实。"
+    ],
+    "related_concept_names": [
+      "退出",
+      "退出成本",
+      "冗余",
+      "治理",
+      "退出的连带风险"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch11-s06"
+    ],
+    "related_concept_ids": [
+      "concept-exit",
+      "concept-exit-cost",
+      "concept-redundancy",
+      "concept-governance",
+      "concept-exit-collateral-risk"
+    ]
+  },
+  {
+    "id": "concept-redundancy-rebuilding",
+    "name": "冗余再建",
+    "aliases": [
+      {
+        "term": "冗余再建",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，冗余再建是在单一路径锁定的系统内，重新使思想、经济、组织和制度上的替代可能生长出来。作者主张放松进入壁垒、降低试错成本并保障失败隔离；资源上可以依靠边缘小规模探索逐步积累，或依靠具备可持续性的外部注入。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001906",
+      "p001907",
+      "p001909",
+      "p001917",
+      "p001919"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p001906",
+        "quote": "解除治理对潜在路径的系统性压制"
+      },
+      {
+        "block_id": "p001909",
+        "quote": "将试错风险锁定在局部"
+      }
+    ],
+    "scope_and_limits": [
+      "这是作者在国家与组织转型中提出的机制解释，不能据此认定所有制度改革都必须遵循同一固定时间顺序。",
+      "解锁潜在路径与恢复现金、信任、人员等真实资源不是同一动作；书中明确承认积累需要时间，外部注入也有持续性和结构反弹条件。",
+      "“唯一可行路径”“冗余必须先于制度”等强判断应保留作者归属，不能由本知识包替其完成经验验证。"
+    ],
+    "related_concept_names": [
+      "冗余",
+      "活尸态",
+      "失败隔离",
+      "创新",
+      "核心—边缘双层生存结构"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch13-s03"
+    ],
+    "related_concept_ids": [
+      "concept-redundancy",
+      "concept-zombie-state",
+      "concept-failure-isolation",
+      "concept-innovation",
+      "concept-core-periphery-survival"
+    ]
+  },
+  {
+    "id": "concept-dao",
+    "name": "去中心化自治组织（DAO）",
+    "aliases": [
+      {
+        "term": "DAO",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿实际使用的缩写。"
+      },
+      {
+        "term": "Decentralized Autonomous Organization",
+        "language": "en",
+        "type": "manuscript_term",
+        "note": "审定稿明确给出的英文全称。"
+      },
+      {
+        "term": "去中心化自治组织",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿明确给出的中文名称。"
+      }
+    ],
+    "definition": "本书使用DAO即Decentralized Autonomous Organization（去中心化自治组织）这一术语，重点讨论代币、协议与分叉如何改变参与者和治理中心的关系。作者把其核心价值重新放在实际可退出和中心可被替代，而非保证治理权平均分散；并提出低退出成本可能与核心权力集中并存。",
+    "claim_status": "established_concept_as_used_by_author",
+    "source_block_ids": [
+      "p002266",
+      "p002277",
+      "p002279",
+      "p002290"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002266",
+        "quote": "DAO 的全称是Decentralized Autonomous Organization，即去中心化自治组织。"
+      },
+      {
+        "block_id": "p002279",
+        "quote": "不是它是否拥有中心，而是它的中心永远可以被淘汰。"
+      }
+    ],
+    "scope_and_limits": [
+      "DAO是已有组织与技术术语；本书关于“动态中心”“退出优先完全落地”的重述属于作者框架。",
+      "本书把无摩擦退出、资产与关系可迁移、中心可被淘汰作为优势条件或理想设定，没有逐一证明现实DAO均满足这些条件。",
+      "整理限制：卖出Token、复制代码、迁移资产与形成可存续社群并不互相等价；本卡不把合约自动执行当作已排除所有错误与风险的证据。"
+    ],
+    "related_concept_names": [
+      "动态中心演化系统",
+      "退出",
+      "分叉式创新",
+      "规则的开放竞争市场",
+      "沙漏结构"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch17-s02",
+      "ch17-s03",
+      "ch17-s04"
+    ],
+    "related_concept_ids": [
+      "concept-app-03",
+      "concept-exit",
+      "concept-fork-innovation",
+      "concept-app-04",
+      "concept-app-05"
+    ]
+  },
+  {
+    "id": "concept-involution",
+    "name": "内卷",
+    "aliases": [
+      {
+        "term": "内卷",
+        "language": "zh",
+        "type": "manuscript_term",
+        "note": "审定稿中实际使用的术语；组合式卡名只作主题归纳。"
+      }
+    ],
+    "definition": "本书中，内卷不是一般的激烈竞争，而是增量枯竭、参与者被锁定、低收益重复投入相互结合，使人们围绕有限存量进行零和耗损的状态。作者将其与活尸态联结，强调治理扩张、虚假创新和压力内聚；同时承认退出必须有客观可进入的替代空间。",
+    "claim_status": "author_framework",
+    "source_block_ids": [
+      "p001009",
+      "p002475",
+      "p002476",
+      "p002480",
+      "p002486"
+    ],
+    "supporting_quotes": [
+      {
+        "block_id": "p002480",
+        "quote": "内卷 = 冗余的竞争者 + 被堵死的出口 + 零和博弈。"
+      },
+      {
+        "block_id": "p002486",
+        "quote": "退出不是一种抽象的权利，而是一种被客观环境允许的行为。"
+      }
+    ],
+    "scope_and_limits": [
+      "这是本书对内卷的框架性定义，不覆盖人类学、社会学等其他语境下该词的全部含义。",
+      "“冗余的竞争者”描述存量中的相互挤压，不能与R作为风险缓冲的所有正面含义直接混同。",
+      "退出空间有限不等于已实证证明所有系统终将进入同一种内卷结局；该终极判断须归属于作者。"
+    ],
+    "related_concept_names": [
+      "活尸态",
+      "退出成本",
+      "退出空间边界",
+      "冗余",
+      "创新"
+    ],
+    "material_status": "derived_knowledge_draft",
+    "source_section_ids": [
+      "ch08-s05",
+      "ch19-s02"
+    ],
+    "related_concept_ids": [
+      "concept-zombie-state",
+      "concept-exit-cost",
+      "concept-app-08",
+      "concept-redundancy",
+      "concept-innovation"
+    ]
+  }
+]

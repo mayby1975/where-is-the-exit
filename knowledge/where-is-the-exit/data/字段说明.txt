@@ -1,0 +1,19 @@
+数据字段与来源
+
+metadata.json：作品、版本、编制边界、权利状态与源文件哈希。
+book.jsonld：Schema.org Book结构化识别元数据。它描述作品，不代表已经公开、注册或收录。
+citation.json：书目引用建议；缺失的出版字段保持null。
+blocks.jsonl：原文基础单元。p开头为DOCX段落；t开头为表格，rows保留各行各列的文字数组。标题也作为来源块保留。
+sections.json：3部分、19章、80节及前后文的目录。level：0前后文，1部分，2章，3节。
+chunks.jsonl：按节边界聚合的检索块。text是source_spans所指原文的直接拼接，分隔符为两个换行；char_start/char_end相对于其block_id对应的blocks.jsonl记录的text字段，按Python Unicode字符切片计，区间左闭右开，不是UTF-8字节位置。一个来源段落不得在导入时被改写。
+concepts.json：术语与概念卡。definition是整理者概括；supporting_quotes为可核对的原文子串；claim_status表明是作者框架、一般概念的本书用法或推演。aliases可含对象：term为检索名，language为语言，type/note区分原稿术语与整理直译。
+claims.json：核心与应用命题、论证摘要、出处和适用限制。命题不表示外部实证已成立。
+relations.json：作者框架内的概念关系；用source_block_ids追溯，不是对现实因果的自动认证。
+qa.jsonl：有出处的示例问答与证据不足问题，供检索/回答测试。其答案是知识整理稿。
+
+所有source_block_ids均应在blocks.jsonl中找到。id仅承诺本版内一致；源文件变化后应创建新版并重新核对映射。JSON内null表示尚无已确认信息，不是“无此事项”。
+
+PDF定位：section_start_pdf_page从PDF封面算第1页；section_start_printed_page_label保存该节起始的页码标签。两者都不是逐段精确页码。页码按source/PDF定位，段落编号按source/DOCX定位。
+
+来源图像：assets/image1.jpeg、image2.jpeg、image3.jpeg是原DOCX内的图片原件，本包不对图片含义自动补写证据。原DOCX/PDF同时保留。
+

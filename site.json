@@ -1,0 +1,20 @@
+{
+  "site_title": "路在何方 · 作品与知识",
+  "author": "mayby1975",
+  "description": "《路在何方》阅读、概念、原文依据与知识资料。",
+  "public_release_approved": true,
+  "base_url": "https://mayby1975.github.io/where-is-the-exit/",
+  "works": [
+    {
+      "id": "where-is-the-exit",
+      "profile": "thought",
+      "package": "knowledge/where-is-the-exit",
+      "rights": {
+        "public_web": true,
+        "statement": "《路在何方》书稿及配套知识整理的著作权归作者所有。本版本供公开阅读、检索与注明出处的合理引用；公开发布不另行授予全文转载、出版发行、模型训练、商业使用或改编许可。"
+      },
+      "public_pdf": "source/book.pdf"
+    }
+  ],
+  "archives": []
+}

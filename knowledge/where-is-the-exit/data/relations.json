@@ -1,0 +1,430 @@
+[
+  {
+    "id": "relation-01",
+    "from_concept_id": "concept-three-survival-constraints",
+    "relation": "requires_in_author_framework",
+    "to_concept_id": "concept-redundancy",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000633"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-02",
+    "from_concept_id": "concept-three-survival-constraints",
+    "relation": "requires_in_author_framework",
+    "to_concept_id": "concept-innovation",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000633"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-03",
+    "from_concept_id": "concept-three-survival-constraints",
+    "relation": "requires_in_author_framework",
+    "to_concept_id": "concept-governance",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000633"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-04",
+    "from_concept_id": "concept-redundancy",
+    "relation": "supports_capacity_for",
+    "to_concept_id": "concept-innovation",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000637"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-05",
+    "from_concept_id": "concept-innovation",
+    "relation": "may_create",
+    "to_concept_id": "concept-redundancy",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000140",
+      "p000637"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-06",
+    "from_concept_id": "concept-governance",
+    "relation": "both_enables_and_constrains",
+    "to_concept_id": "concept-innovation",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000637",
+      "p000725"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-07",
+    "from_concept_id": "concept-exit",
+    "relation": "constrains_expansion_of",
+    "to_concept_id": "concept-governance",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000142",
+      "p000786"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-08",
+    "from_concept_id": "concept-exit-cost",
+    "relation": "limits_feasibility_of",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001105",
+      "p001120"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-09",
+    "from_concept_id": "concept-exit-first",
+    "relation": "prioritizes_observing",
+    "to_concept_id": "concept-exit-cost",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001042",
+      "p000946",
+      "p001105"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-10",
+    "from_concept_id": "concept-minimum-viable-governance",
+    "relation": "depends_on_effective",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001275",
+      "p001284"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-11",
+    "from_concept_id": "concept-core-periphery-survival",
+    "relation": "is_proposed_realization_structure_of",
+    "to_concept_id": "concept-minimum-viable-governance",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001330",
+      "p001345",
+      "p001346"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-12",
+    "from_concept_id": "concept-app-01",
+    "relation": "is_organizational_application_of",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001778",
+      "p001787"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-13",
+    "from_concept_id": "concept-app-03",
+    "relation": "depends_on_effective",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002277",
+      "p002279",
+      "p002325"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-14",
+    "from_concept_id": "concept-app-07",
+    "relation": "has_proposed_basic_unit",
+    "to_concept_id": "concept-app-06",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002430"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-15",
+    "from_concept_id": "concept-app-08",
+    "relation": "bounds_future_feasibility_of",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002486",
+      "p002487",
+      "p002488",
+      "p002489",
+      "p002490",
+      "p002480"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-16",
+    "from_concept_id": "concept-app-09",
+    "relation": "is_form_of_exit_that_preserves_subject",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002496",
+      "p002498",
+      "p002502"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-17",
+    "from_concept_id": "concept-app-10",
+    "relation": "is_speculative_extension_of",
+    "to_concept_id": "concept-app-09",
+    "claim_status": "author_speculation",
+    "source_block_ids": [
+      "p002512",
+      "p002513"
+    ],
+    "note": "关系仅概括本书框架中的论述，不表示已由本包完成外部因果验证。"
+  },
+  {
+    "id": "relation-audit-01",
+    "from_concept_id": "concept-exit",
+    "relation": "is_necessary_premise_in_author_framework_for",
+    "to_concept_id": "concept-evolution",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000191",
+      "p001004"
+    ],
+    "note": "记录作者把退出放在演化前提位置的观点；不把退出改写为存续充分条件，也不视为已验证的跨学科定律。"
+  },
+  {
+    "id": "relation-audit-02",
+    "from_concept_id": "concept-active-exit",
+    "relation": "is_form_of",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000194",
+      "p000195"
+    ],
+    "note": "主动离开旧路径与拓展新空间；其实际可行性仍受退出成本及替代空间约束。"
+  },
+  {
+    "id": "relation-audit-03",
+    "from_concept_id": "concept-passive-exit",
+    "relation": "is_form_of",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000195"
+    ],
+    "note": "失败结构的出清，不自动等同于自愿退出权或有益的主体毁灭。"
+  },
+  {
+    "id": "relation-audit-04",
+    "from_concept_id": "concept-cognitive-exit",
+    "relation": "may_enable",
+    "to_concept_id": "concept-active-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002456",
+      "p002464"
+    ],
+    "note": "认知替代可能可先于现实切换，但不保证物理、制度或经济出口成立。"
+  },
+  {
+    "id": "relation-audit-05",
+    "from_concept_id": "concept-exit",
+    "relation": "provides_resource_based_feedback_in",
+    "to_concept_id": "concept-hard-soft-feedback",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000868",
+      "p000870"
+    ],
+    "note": "本书将资源离场称为硬反馈；不否认发声、协商与内部纠错的实际作用。"
+  },
+  {
+    "id": "relation-audit-06",
+    "from_concept_id": "concept-hard-soft-feedback",
+    "relation": "explains_exit_constraint_on",
+    "to_concept_id": "concept-governance",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000870",
+      "p000881"
+    ],
+    "note": "资源流失使反馈具有治理代价；具体影响强弱仍依赖资源可迁移性与替代选项。"
+  },
+  {
+    "id": "relation-audit-07",
+    "from_concept_id": "concept-innovation",
+    "relation": "may_generate_after_failure",
+    "to_concept_id": "concept-negative-knowledge",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000580",
+      "p000581",
+      "p000582"
+    ],
+    "note": "失败可能留下边界信息与可复用组件；不意味着全部失败都会转成净收益。"
+  },
+  {
+    "id": "relation-audit-08",
+    "from_concept_id": "concept-negative-knowledge",
+    "relation": "may_reduce_repeated_trial_cost_of",
+    "to_concept_id": "concept-innovation",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000581"
+    ],
+    "note": "负面知识须被保存和传播才可能减少后续重复试错，边界受原有尝试条件限制。"
+  },
+  {
+    "id": "relation-audit-09",
+    "from_concept_id": "concept-failure-isolation",
+    "relation": "is_form_of",
+    "to_concept_id": "concept-redundancy",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p000517",
+      "p000518",
+      "p000519"
+    ],
+    "note": "作者将隔断机制列为冗余工具之一；不是任意试错的无限保险。"
+  },
+  {
+    "id": "relation-audit-10",
+    "from_concept_id": "concept-failure-isolation",
+    "relation": "aims_to_limit",
+    "to_concept_id": "concept-exit-collateral-risk",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002057",
+      "p002115"
+    ],
+    "note": "来自突然退出的连锁损失及良性治理应将失败限制在局部的作者论述。"
+  },
+  {
+    "id": "relation-audit-11",
+    "from_concept_id": "concept-exit-collateral-risk",
+    "relation": "may_contribute_to",
+    "to_concept_id": "concept-exit-cost",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001121",
+      "p001473"
+    ],
+    "note": "本书五维退出成本中的Co把亲友、团队及关联方的连带损害纳入退出代价。此关系只说明连带风险可能增加退出成本，不把本卡汇总的所有系统连锁冲击都直接等同于该五维模型中的单一维度。"
+  },
+  {
+    "id": "relation-audit-12",
+    "from_concept_id": "concept-exit-friendly-marriage",
+    "relation": "is_relationship_application_of",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001577",
+      "p001584",
+      "p001597"
+    ],
+    "note": "作者的亲密关系设计主张；不表示鼓励全部关系立即解体或免除已有责任。"
+  },
+  {
+    "id": "relation-audit-13",
+    "from_concept_id": "concept-redundancy-rebuilding",
+    "relation": "aims_to_restore",
+    "to_concept_id": "concept-redundancy",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001906",
+      "p001917",
+      "p001919"
+    ],
+    "note": "恢复替代路径和资源缓冲的机制解释；积累非即时，外部注入也有持续性条件。"
+  },
+  {
+    "id": "relation-audit-14",
+    "from_concept_id": "concept-redundancy-rebuilding",
+    "relation": "requires_in_author_framework",
+    "to_concept_id": "concept-failure-isolation",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001909"
+    ],
+    "note": "本书把将试错局部化视为冗余再建落地的核心前提。"
+  },
+  {
+    "id": "relation-audit-15",
+    "from_concept_id": "concept-dao",
+    "relation": "is_reinterpreted_by_author_as",
+    "to_concept_id": "concept-app-03",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002279",
+      "p002280"
+    ],
+    "note": "动态中心是作者对DAO的重述，不能外推为全部现实DAO的已核验状态。"
+  },
+  {
+    "id": "relation-audit-18",
+    "from_concept_id": "concept-involution",
+    "relation": "is_related_lock_in_state_in_author_framework_to",
+    "to_concept_id": "concept-zombie-state",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002475",
+      "p002480",
+      "p002482"
+    ],
+    "note": "作者将无法离场的存量耗损与活尸态联结，不能将任何激烈竞争直接视为系统死亡。"
+  },
+  {
+    "id": "relation-audit-19",
+    "from_concept_id": "concept-app-08",
+    "relation": "limits_effectiveness_of",
+    "to_concept_id": "concept-active-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p002486",
+      "p002487",
+      "p002488",
+      "p002489",
+      "p002490"
+    ],
+    "note": "主动退出须有客观可进入空间，退出权本身不创造无限生态位。"
+  },
+  {
+    "id": "relation-audit-20",
+    "from_concept_id": "concept-governance",
+    "relation": "must_protect_basic_conditions_for",
+    "to_concept_id": "concept-exit",
+    "claim_status": "author_framework_relation",
+    "source_block_ids": [
+      "p001306",
+      "p002234"
+    ],
+    "note": "必要治理应维护权利边界、契约执行和退出基础；不推出治理越少越好。"
+  }
+]

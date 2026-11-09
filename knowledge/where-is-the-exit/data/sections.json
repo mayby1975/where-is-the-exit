@@ -1,0 +1,965 @@
+[
+  {
+    "id": "front-metadata",
+    "title": "扉页与著者信息",
+    "level": 0,
+    "chapter_id": null,
+    "part_id": null,
+    "pdf_page": 2,
+    "printed_page_label": "扉页"
+  },
+  {
+    "id": "front-preface",
+    "title": "自序",
+    "level": 0,
+    "chapter_id": null,
+    "part_id": null,
+    "pdf_page": 8,
+    "printed_page_label": "vi"
+  },
+  {
+    "id": "front-prologue",
+    "title": "序章",
+    "level": 0,
+    "chapter_id": null,
+    "part_id": null,
+    "pdf_page": 10,
+    "printed_page_label": "1"
+  },
+  {
+    "id": "part-01",
+    "title": "第一部分 生存的条件",
+    "level": 1,
+    "chapter_id": null,
+    "part_id": "part-01",
+    "pdf_page": 14,
+    "printed_page_label": "5"
+  },
+  {
+    "id": "ch01",
+    "title": "第一章 幸存者的错觉——我们为何痴迷于“优胜劣汰”？",
+    "level": 2,
+    "chapter_id": "ch01",
+    "part_id": "part-01",
+    "pdf_page": 15,
+    "printed_page_label": "6"
+  },
+  {
+    "id": "ch01-s01",
+    "title": "第一节 演化的隐蔽法则——被长期遮蔽的退出机制",
+    "level": 3,
+    "chapter_id": "ch01",
+    "part_id": "part-01",
+    "pdf_page": 15,
+    "printed_page_label": "6"
+  },
+  {
+    "id": "ch01-s02",
+    "title": "第二节 演化的真实剧本",
+    "level": 3,
+    "chapter_id": "ch01",
+    "part_id": "part-01",
+    "pdf_page": 18,
+    "printed_page_label": "9"
+  },
+  {
+    "id": "ch01-s03",
+    "title": "第三节 优胜劣汰的三大错觉",
+    "level": 3,
+    "chapter_id": "ch01",
+    "part_id": "part-01",
+    "pdf_page": 21,
+    "printed_page_label": "12"
+  },
+  {
+    "id": "ch01-s04",
+    "title": "第四节 幸存者偏差——我们为什么总是误判演化？",
+    "level": 3,
+    "chapter_id": "ch01",
+    "part_id": "part-01",
+    "pdf_page": 23,
+    "printed_page_label": "14"
+  },
+  {
+    "id": "ch01-s05",
+    "title": "第五节 社会领域的双重误读",
+    "level": 3,
+    "chapter_id": "ch01",
+    "part_id": "part-01",
+    "pdf_page": 29,
+    "printed_page_label": "20"
+  },
+  {
+    "id": "ch01-s06",
+    "title": "第六节 新视角的开启",
+    "level": 3,
+    "chapter_id": "ch01",
+    "part_id": "part-01",
+    "pdf_page": 31,
+    "printed_page_label": "22"
+  },
+  {
+    "id": "ch02",
+    "title": "第二章 非遍历世界的生存约束——三个无法绕过的残酷现实",
+    "level": 2,
+    "chapter_id": "ch02",
+    "part_id": "part-01",
+    "pdf_page": 32,
+    "printed_page_label": "23"
+  },
+  {
+    "id": "ch02-s01",
+    "title": "第一节 从完美幻想到容错生存",
+    "level": 3,
+    "chapter_id": "ch02",
+    "part_id": "part-01",
+    "pdf_page": 32,
+    "printed_page_label": "23"
+  },
+  {
+    "id": "ch02-s02",
+    "title": "第二节 意义与控制：不可知世界里，人类如何继续行动？",
+    "level": 3,
+    "chapter_id": "ch02",
+    "part_id": "part-01",
+    "pdf_page": 38,
+    "printed_page_label": "29"
+  },
+  {
+    "id": "ch02-s03",
+    "title": "第三节 容错生存带来的“三观”重建",
+    "level": 3,
+    "chapter_id": "ch02",
+    "part_id": "part-01",
+    "pdf_page": 42,
+    "printed_page_label": "33"
+  },
+  {
+    "id": "ch03",
+    "title": "第三章 冗余（Redundancy）——错误不可避免下，系统如何容错",
+    "level": 2,
+    "chapter_id": "ch03",
+    "part_id": "part-01",
+    "pdf_page": 47,
+    "printed_page_label": "38"
+  },
+  {
+    "id": "ch03-s01",
+    "title": "第一节 七种武器：为不确定性储备的生存工具箱",
+    "level": 3,
+    "chapter_id": "ch03",
+    "part_id": "part-01",
+    "pdf_page": 48,
+    "printed_page_label": "39"
+  },
+  {
+    "id": "ch04",
+    "title": "第四章 创新（Innovation）——环境不断变化，系统如何适配",
+    "level": 2,
+    "chapter_id": "ch04",
+    "part_id": "part-01",
+    "pdf_page": 52,
+    "printed_page_label": "43"
+  },
+  {
+    "id": "ch04-s01",
+    "title": "第一节 创新的本质——有益的不确定性生产",
+    "level": 3,
+    "chapter_id": "ch04",
+    "part_id": "part-01",
+    "pdf_page": 52,
+    "printed_page_label": "43"
+  },
+  {
+    "id": "ch04-s02",
+    "title": "第二节 创新的光谱——从优化到分叉的三层分级",
+    "level": 3,
+    "chapter_id": "ch04",
+    "part_id": "part-01",
+    "pdf_page": 53,
+    "printed_page_label": "44"
+  },
+  {
+    "id": "ch04-s03",
+    "title": "第三节 创新的价值——路径分叉与系统生存空间的指数级扩张",
+    "level": 3,
+    "chapter_id": "ch04",
+    "part_id": "part-01",
+    "pdf_page": 54,
+    "printed_page_label": "45"
+  },
+  {
+    "id": "ch04-s04",
+    "title": "第四节 创新的意义——一切皆可替代，系统越安全",
+    "level": 3,
+    "chapter_id": "ch04",
+    "part_id": "part-01",
+    "pdf_page": 55,
+    "printed_page_label": "46"
+  },
+  {
+    "id": "ch04-s05",
+    "title": "第五节 创新失败的演化价值——系统的演化堆肥",
+    "level": 3,
+    "chapter_id": "ch04",
+    "part_id": "part-01",
+    "pdf_page": 56,
+    "printed_page_label": "47"
+  },
+  {
+    "id": "ch05",
+    "title": "第五章 治理（Governance）——分歧无处不在，系统如何协作",
+    "level": 2,
+    "chapter_id": "ch05",
+    "part_id": "part-01",
+    "pdf_page": 58,
+    "printed_page_label": "49"
+  },
+  {
+    "id": "ch05-s01",
+    "title": "第一节 治理的起源，分歧世界的协作机制",
+    "level": 3,
+    "chapter_id": "ch05",
+    "part_id": "part-01",
+    "pdf_page": 58,
+    "printed_page_label": "49"
+  },
+  {
+    "id": "ch05-s02",
+    "title": "第二节 治理的本质，必要的秩序生产机制",
+    "level": 3,
+    "chapter_id": "ch05",
+    "part_id": "part-01",
+    "pdf_page": 61,
+    "printed_page_label": "52"
+  },
+  {
+    "id": "ch05-s03",
+    "title": "第三节 权力、规则和执行，治理的三大核心支柱",
+    "level": 3,
+    "chapter_id": "ch05",
+    "part_id": "part-01",
+    "pdf_page": 61,
+    "printed_page_label": "52"
+  },
+  {
+    "id": "ch05-s04",
+    "title": "第四节 治理的扩张",
+    "level": 3,
+    "chapter_id": "ch05",
+    "part_id": "part-01",
+    "pdf_page": 64,
+    "printed_page_label": "55"
+  },
+  {
+    "id": "ch06",
+    "title": "第六章 生存三要素——G-I-R的动态博弈",
+    "level": 2,
+    "chapter_id": "ch06",
+    "part_id": "part-01",
+    "pdf_page": 65,
+    "printed_page_label": "56"
+  },
+  {
+    "id": "ch06-s01",
+    "title": "第一节 生存不等式下的系统命运",
+    "level": 3,
+    "chapter_id": "ch06",
+    "part_id": "part-01",
+    "pdf_page": 66,
+    "printed_page_label": "57"
+  },
+  {
+    "id": "ch06-s02",
+    "title": "第二节 唯一的活法：动态平衡的智慧",
+    "level": 3,
+    "chapter_id": "ch06",
+    "part_id": "part-01",
+    "pdf_page": 69,
+    "printed_page_label": "60"
+  },
+  {
+    "id": "ch07",
+    "title": "第七章 退出约束治理，驱动演化",
+    "level": 2,
+    "chapter_id": "ch07",
+    "part_id": "part-01",
+    "pdf_page": 72,
+    "printed_page_label": "63"
+  },
+  {
+    "id": "ch07-s01",
+    "title": "第一节 治理扩张的结构性特征",
+    "level": 3,
+    "chapter_id": "ch07",
+    "part_id": "part-01",
+    "pdf_page": 73,
+    "printed_page_label": "64"
+  },
+  {
+    "id": "ch07-s02",
+    "title": "第二节 退出（Exit）约束治理",
+    "level": 3,
+    "chapter_id": "ch07",
+    "part_id": "part-01",
+    "pdf_page": 79,
+    "printed_page_label": "70"
+  },
+  {
+    "id": "ch08",
+    "title": "第八章 退出优先（Exit-First）——审视系统演化的第一性原理",
+    "level": 2,
+    "chapter_id": "ch08",
+    "part_id": "part-01",
+    "pdf_page": 87,
+    "printed_page_label": "78"
+  },
+  {
+    "id": "ch08-s01",
+    "title": "第一节 没有退出，没有反馈",
+    "level": 3,
+    "chapter_id": "ch08",
+    "part_id": "part-01",
+    "pdf_page": 87,
+    "printed_page_label": "78"
+  },
+  {
+    "id": "ch08-s02",
+    "title": "第二节 没有退出，没有创新",
+    "level": 3,
+    "chapter_id": "ch08",
+    "part_id": "part-01",
+    "pdf_page": 89,
+    "printed_page_label": "80"
+  },
+  {
+    "id": "ch08-s03",
+    "title": "第三节 没有退出，没有自由",
+    "level": 3,
+    "chapter_id": "ch08",
+    "part_id": "part-01",
+    "pdf_page": 92,
+    "printed_page_label": "83"
+  },
+  {
+    "id": "ch08-s04",
+    "title": "第四节 没有退出，没有文明",
+    "level": 3,
+    "chapter_id": "ch08",
+    "part_id": "part-01",
+    "pdf_page": 96,
+    "printed_page_label": "87"
+  },
+  {
+    "id": "ch08-s05",
+    "title": "第五节 没有退出，没有演化",
+    "level": 3,
+    "chapter_id": "ch08",
+    "part_id": "part-01",
+    "pdf_page": 102,
+    "printed_page_label": "93"
+  },
+  {
+    "id": "ch09",
+    "title": "第九章 退出成本 ——系统锁定的底层机制",
+    "level": 2,
+    "chapter_id": "ch09",
+    "part_id": "part-01",
+    "pdf_page": 108,
+    "printed_page_label": "99"
+  },
+  {
+    "id": "ch09-s01",
+    "title": "第一节 丛林、广场与监狱——退出约束下的系统生存空间",
+    "level": 3,
+    "chapter_id": "ch09",
+    "part_id": "part-01",
+    "pdf_page": 109,
+    "printed_page_label": "100"
+  },
+  {
+    "id": "ch09-s02",
+    "title": "第二节 退出成本——衡量系统活力的体温计",
+    "level": 3,
+    "chapter_id": "ch09",
+    "part_id": "part-01",
+    "pdf_page": 113,
+    "printed_page_label": "104"
+  },
+  {
+    "id": "ch09-s03",
+    "title": "第三节 活尸态——“有些人活着，他已经死了”",
+    "level": 3,
+    "chapter_id": "ch09",
+    "part_id": "part-01",
+    "pdf_page": 117,
+    "printed_page_label": "108"
+  },
+  {
+    "id": "ch09-s04",
+    "title": "第四节 历史案例的退出成本量化分析",
+    "level": 3,
+    "chapter_id": "ch09",
+    "part_id": "part-01",
+    "pdf_page": 128,
+    "printed_page_label": "119"
+  },
+  {
+    "id": "ch10",
+    "title": "第十章 Ec → 0——最小必要治理（MVG）",
+    "level": 2,
+    "chapter_id": "ch10",
+    "part_id": "part-01",
+    "pdf_page": 133,
+    "printed_page_label": "124"
+  },
+  {
+    "id": "ch10-s01",
+    "title": "第一节 退出成本——治理的根本约束",
+    "level": 3,
+    "chapter_id": "ch10",
+    "part_id": "part-01",
+    "pdf_page": 133,
+    "printed_page_label": "124"
+  },
+  {
+    "id": "ch10-s02",
+    "title": "第二节 MVG下的组织重构",
+    "level": 3,
+    "chapter_id": "ch10",
+    "part_id": "part-01",
+    "pdf_page": 138,
+    "printed_page_label": "129"
+  },
+  {
+    "id": "ch10-s03",
+    "title": "第三节 核心 - 边缘双层生存结构",
+    "level": 3,
+    "chapter_id": "ch10",
+    "part_id": "part-01",
+    "pdf_page": 142,
+    "printed_page_label": "133"
+  },
+  {
+    "id": "ch10-s04",
+    "title": "第四节 MVG 下的公共品供给重构",
+    "level": 3,
+    "chapter_id": "ch10",
+    "part_id": "part-01",
+    "pdf_page": 146,
+    "printed_page_label": "137"
+  },
+  {
+    "id": "part-02",
+    "title": "第二部分 组织的兴衰",
+    "level": 1,
+    "chapter_id": null,
+    "part_id": "part-02",
+    "pdf_page": 151,
+    "printed_page_label": "142"
+  },
+  {
+    "id": "ch11",
+    "title": "第十一章 婚姻为什么会失败——最古老的微型治理战场",
+    "level": 2,
+    "chapter_id": "ch11",
+    "part_id": "part-02",
+    "pdf_page": 152,
+    "printed_page_label": "143"
+  },
+  {
+    "id": "ch11-s01",
+    "title": "第一节 婚姻的兴衰——从无话不说到无话可说",
+    "level": 3,
+    "chapter_id": "ch11",
+    "part_id": "part-02",
+    "pdf_page": 152,
+    "printed_page_label": "143"
+  },
+  {
+    "id": "ch11-s02",
+    "title": "第二节 婚姻的本质——作为微型协作系统的主要特征",
+    "level": 3,
+    "chapter_id": "ch11",
+    "part_id": "part-02",
+    "pdf_page": 154,
+    "printed_page_label": "145"
+  },
+  {
+    "id": "ch11-s03",
+    "title": "第三节 G-I-R-E 框架下的婚姻拆解",
+    "level": 3,
+    "chapter_id": "ch11",
+    "part_id": "part-02",
+    "pdf_page": 157,
+    "printed_page_label": "148"
+  },
+  {
+    "id": "ch11-s04",
+    "title": "第四节 婚姻的演化——从爱情到坟墓",
+    "level": 3,
+    "chapter_id": "ch11",
+    "part_id": "part-02",
+    "pdf_page": 161,
+    "printed_page_label": "152"
+  },
+  {
+    "id": "ch11-s05",
+    "title": "第五节 婚姻的历史脉络——退出的回归",
+    "level": 3,
+    "chapter_id": "ch11",
+    "part_id": "part-02",
+    "pdf_page": 170,
+    "printed_page_label": "161"
+  },
+  {
+    "id": "ch11-s06",
+    "title": "第六节 未来的亲密关系，应该是什么样子？",
+    "level": 3,
+    "chapter_id": "ch11",
+    "part_id": "part-02",
+    "pdf_page": 173,
+    "printed_page_label": "164"
+  },
+  {
+    "id": "ch12",
+    "title": "第十二章 公司为什么会失败——创新者的窘境与治理的捕获",
+    "level": 2,
+    "chapter_id": "ch12",
+    "part_id": "part-02",
+    "pdf_page": 181,
+    "printed_page_label": "172"
+  },
+  {
+    "id": "ch12-s01",
+    "title": "第一节 公司的衰亡——从车库到格子间",
+    "level": 3,
+    "chapter_id": "ch12",
+    "part_id": "part-02",
+    "pdf_page": 182,
+    "printed_page_label": "173"
+  },
+  {
+    "id": "ch12-s02",
+    "title": "第二节 公司的本质——作为开放系统的核心特征",
+    "level": 3,
+    "chapter_id": "ch12",
+    "part_id": "part-02",
+    "pdf_page": 184,
+    "printed_page_label": "175"
+  },
+  {
+    "id": "ch12-s03",
+    "title": "第三节 G-I-R-E框架下的公司拆解",
+    "level": 3,
+    "chapter_id": "ch12",
+    "part_id": "part-02",
+    "pdf_page": 187,
+    "printed_page_label": "178"
+  },
+  {
+    "id": "ch12-s04",
+    "title": "第四节 公司的演化——从使命到PPT",
+    "level": 3,
+    "chapter_id": "ch12",
+    "part_id": "part-02",
+    "pdf_page": 192,
+    "printed_page_label": "183"
+  },
+  {
+    "id": "ch12-s05",
+    "title": "第五节 公司的历史脉络——股权、股票与退出的回归",
+    "level": 3,
+    "chapter_id": "ch12",
+    "part_id": "part-02",
+    "pdf_page": 196,
+    "printed_page_label": "187"
+  },
+  {
+    "id": "ch12-s06",
+    "title": "第六节 退出优先——让公司永不僵化的唯一法则",
+    "level": 3,
+    "chapter_id": "ch12",
+    "part_id": "part-02",
+    "pdf_page": 198,
+    "printed_page_label": "189"
+  },
+  {
+    "id": "ch13",
+    "title": "第十三章 国家为什么会失败——退出极度受限的巨型治理系统",
+    "level": 2,
+    "chapter_id": "ch13",
+    "part_id": "part-02",
+    "pdf_page": 204,
+    "printed_page_label": "195"
+  },
+  {
+    "id": "ch13-s01",
+    "title": "第一节 退出归零的起点：独裁是匮乏时代的自然收敛态",
+    "level": 3,
+    "chapter_id": "ch13",
+    "part_id": "part-02",
+    "pdf_page": 205,
+    "printed_page_label": "196"
+  },
+  {
+    "id": "ch13-s02",
+    "title": "第二节 民主：有限退出与治理扩张的隐性风险",
+    "level": 3,
+    "chapter_id": "ch13",
+    "part_id": "part-02",
+    "pdf_page": 208,
+    "printed_page_label": "199"
+  },
+  {
+    "id": "ch13-s03",
+    "title": "第三节 独裁-民主转型的本质——系统冗余的再建",
+    "level": 3,
+    "chapter_id": "ch13",
+    "part_id": "part-02",
+    "pdf_page": 212,
+    "printed_page_label": "203"
+  },
+  {
+    "id": "ch13-s04",
+    "title": "第四节 转型的困境：“穷”，才思变",
+    "level": 3,
+    "chapter_id": "ch13",
+    "part_id": "part-02",
+    "pdf_page": 217,
+    "printed_page_label": "208"
+  },
+  {
+    "id": "ch13-s05",
+    "title": "第五节 退出与分叉：在国家边界之外寻找新路径",
+    "level": 3,
+    "chapter_id": "ch13",
+    "part_id": "part-02",
+    "pdf_page": 220,
+    "printed_page_label": "211"
+  },
+  {
+    "id": "ch14",
+    "title": "第十四章 干预的诅咒——那些我们不该阻止的“退出”",
+    "level": 2,
+    "chapter_id": "ch14",
+    "part_id": "part-02",
+    "pdf_page": 229,
+    "printed_page_label": "220"
+  },
+  {
+    "id": "ch14-s01",
+    "title": "第一节 黄石公园：百年禁火令与1988年的超级大火",
+    "level": 3,
+    "chapter_id": "ch14",
+    "part_id": "part-02",
+    "pdf_page": 229,
+    "printed_page_label": "220"
+  },
+  {
+    "id": "ch14-s02",
+    "title": "第二节 “大而不倒”：2008年全球金融海啸的诅咒",
+    "level": 3,
+    "chapter_id": "ch14",
+    "part_id": "part-02",
+    "pdf_page": 230,
+    "printed_page_label": "221"
+  },
+  {
+    "id": "ch14-s03",
+    "title": "第三节 抗生素的滥用：我们正在培养“超级细菌”",
+    "level": 3,
+    "chapter_id": "ch14",
+    "part_id": "part-02",
+    "pdf_page": 231,
+    "printed_page_label": "222"
+  },
+  {
+    "id": "ch14-s04",
+    "title": "第四节 河流的复仇：堤坝越高，溃坝越惨",
+    "level": 3,
+    "chapter_id": "ch14",
+    "part_id": "part-02",
+    "pdf_page": 232,
+    "printed_page_label": "223"
+  },
+  {
+    "id": "ch14-s05",
+    "title": "第五节 生态保护中的“善意”如何扼杀演化",
+    "level": 3,
+    "chapter_id": "ch14",
+    "part_id": "part-02",
+    "pdf_page": 232,
+    "printed_page_label": "223"
+  },
+  {
+    "id": "ch15",
+    "title": "第十五章 宗教的演化密码：高退出、高分叉、高冗余的长寿系统",
+    "level": 2,
+    "chapter_id": "ch15",
+    "part_id": "part-02",
+    "pdf_page": 237,
+    "printed_page_label": "228"
+  },
+  {
+    "id": "ch15-s01",
+    "title": "第一节 认知重构：宗教不是单一系统，而是持续演化的分叉生态",
+    "level": 3,
+    "chapter_id": "ch15",
+    "part_id": "part-02",
+    "pdf_page": 238,
+    "printed_page_label": "229"
+  },
+  {
+    "id": "ch15-s02",
+    "title": "第二节 核心生存机制：G-I-R-E框架下的完美适配",
+    "level": 3,
+    "chapter_id": "ch15",
+    "part_id": "part-02",
+    "pdf_page": 239,
+    "printed_page_label": "230"
+  },
+  {
+    "id": "ch15-s03",
+    "title": "第三节 宗教的死亡边界：当演化机制被扼杀之时",
+    "level": 3,
+    "chapter_id": "ch15",
+    "part_id": "part-02",
+    "pdf_page": 244,
+    "printed_page_label": "235"
+  },
+  {
+    "id": "ch15-s04",
+    "title": "第四节 启示：长寿系统的通用法则",
+    "level": 3,
+    "chapter_id": "ch15",
+    "part_id": "part-02",
+    "pdf_page": 246,
+    "printed_page_label": "237"
+  },
+  {
+    "id": "part-03",
+    "title": "第三部分 文明的出路",
+    "level": 1,
+    "chapter_id": null,
+    "part_id": "part-03",
+    "pdf_page": 248,
+    "printed_page_label": "239"
+  },
+  {
+    "id": "ch16",
+    "title": "第十六章 自然的启示——高退出能力的系统密码",
+    "level": 2,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 249,
+    "printed_page_label": "240"
+  },
+  {
+    "id": "ch16-s01",
+    "title": "第一节 基因突变与重组——生命演化的“分叉退出”密码",
+    "level": 3,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 249,
+    "printed_page_label": "240"
+  },
+  {
+    "id": "ch16-s02",
+    "title": "第二节 生命：个体死亡与物种迭代——生态延续的“迭代退出”密码",
+    "level": 3,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 250,
+    "printed_page_label": "241"
+  },
+  {
+    "id": "ch16-s03",
+    "title": "第三节 生态：物种迁徙与生态分叉——平衡稳定的“空间退出”密码",
+    "level": 3,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 251,
+    "printed_page_label": "242"
+  },
+  {
+    "id": "ch16-s04",
+    "title": "第四节 神经：突触形成与消退——认知优化的“动态退出”密码",
+    "level": 3,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 252,
+    "printed_page_label": "243"
+  },
+  {
+    "id": "ch16-s05",
+    "title": "第五节 语言：演变与方言分化——文化创新的“冗余退出”密码",
+    "level": 3,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 252,
+    "printed_page_label": "243"
+  },
+  {
+    "id": "ch16-s06",
+    "title": "第六节 市场：企业破产与行业迭代——资源优化的“竞争退出”密码",
+    "level": 3,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 253,
+    "printed_page_label": "244"
+  },
+  {
+    "id": "ch16-s07",
+    "title": "第七节 自然/竞争系统的共性：高退出能力的底层逻辑",
+    "level": 3,
+    "chapter_id": "ch16",
+    "part_id": "part-03",
+    "pdf_page": 254,
+    "printed_page_label": "245"
+  },
+  {
+    "id": "ch17",
+    "title": "第十七章 革命的起点——去中心化自治组织（DAO）",
+    "level": 2,
+    "chapter_id": "ch17",
+    "part_id": "part-03",
+    "pdf_page": 257,
+    "printed_page_label": "248"
+  },
+  {
+    "id": "ch17-s01",
+    "title": "第一节 退出，不是免费的午餐",
+    "level": 3,
+    "chapter_id": "ch17",
+    "part_id": "part-03",
+    "pdf_page": 258,
+    "printed_page_label": "249"
+  },
+  {
+    "id": "ch17-s02",
+    "title": "第二节 DAO的演化悖论：退出越自由，治理越集中",
+    "level": 3,
+    "chapter_id": "ch17",
+    "part_id": "part-03",
+    "pdf_page": 262,
+    "printed_page_label": "253"
+  },
+  {
+    "id": "ch17-s03",
+    "title": "第三节 DAO 的真正价值：退出优先理论的组织化落地",
+    "level": 3,
+    "chapter_id": "ch17",
+    "part_id": "part-03",
+    "pdf_page": 264,
+    "printed_page_label": "255"
+  },
+  {
+    "id": "ch17-s04",
+    "title": "第四节 第一性原理的改写：从“锁定的人”到“可退出的人”",
+    "level": 3,
+    "chapter_id": "ch17",
+    "part_id": "part-03",
+    "pdf_page": 266,
+    "printed_page_label": "257"
+  },
+  {
+    "id": "ch18",
+    "title": "第十八章 分布式文明——退出驱动的文明演化路径",
+    "level": 2,
+    "chapter_id": "ch18",
+    "part_id": "part-03",
+    "pdf_page": 271,
+    "printed_page_label": "262"
+  },
+  {
+    "id": "ch18-s01",
+    "title": "第一节 中世纪欧洲城邦——退出驱动演化的原型实验",
+    "level": 3,
+    "chapter_id": "ch18",
+    "part_id": "part-03",
+    "pdf_page": 271,
+    "printed_page_label": "262"
+  },
+  {
+    "id": "ch18-s02",
+    "title": "第二节 主权个人：分布式文明的基本单元",
+    "level": 3,
+    "chapter_id": "ch18",
+    "part_id": "part-03",
+    "pdf_page": 279,
+    "printed_page_label": "270"
+  },
+  {
+    "id": "ch18-s03",
+    "title": "第三节 分布式文明的基本形态",
+    "level": 3,
+    "chapter_id": "ch18",
+    "part_id": "part-03",
+    "pdf_page": 281,
+    "printed_page_label": "272"
+  },
+  {
+    "id": "ch19",
+    "title": "第十九章 没有无限的演化空间——所有退出终将枯竭",
+    "level": 2,
+    "chapter_id": "ch19",
+    "part_id": "part-03",
+    "pdf_page": 284,
+    "printed_page_label": "275"
+  },
+  {
+    "id": "ch19-s01",
+    "title": "第一节 主动退出：人类文明真正的演化优势",
+    "level": 3,
+    "chapter_id": "ch19",
+    "part_id": "part-03",
+    "pdf_page": 284,
+    "printed_page_label": "275"
+  },
+  {
+    "id": "ch19-s02",
+    "title": "第二节 重新定义内卷：因无法离场而产生的零和死循环",
+    "level": 3,
+    "chapter_id": "ch19",
+    "part_id": "part-03",
+    "pdf_page": 287,
+    "printed_page_label": "278"
+  },
+  {
+    "id": "ch19-s03",
+    "title": "第三节 真正的难题：退出必须以死亡为代价吗？",
+    "level": 3,
+    "chapter_id": "ch19",
+    "part_id": "part-03",
+    "pdf_page": 289,
+    "printed_page_label": "280"
+  },
+  {
+    "id": "ch19-s04",
+    "title": "第四节 链上生态位与存在的分叉",
+    "level": 3,
+    "chapter_id": "ch19",
+    "part_id": "part-03",
+    "pdf_page": 291,
+    "printed_page_label": "282"
+  },
+  {
+    "id": "back-afterword",
+    "title": "后记 最后的猜想：宇宙、信息与退出",
+    "level": 0,
+    "chapter_id": null,
+    "part_id": null,
+    "pdf_page": 294,
+    "printed_page_label": "285"
+  },
+  {
+    "id": "back-epilogue",
+    "title": "尾声：从幸存者到播种者——演化的接力",
+    "level": 0,
+    "chapter_id": null,
+    "part_id": null,
+    "pdf_page": 299,
+    "printed_page_label": "290"
+  }
+]
